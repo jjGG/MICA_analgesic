@@ -23,10 +23,10 @@ source("UsefulFunctions_MicaStudy.R")
 
 
 #read in annotation file
-annoFile_here <- read_tsv("headerNAnnotations_2024_11_06_validatedFortxtComp_wExclud.txt")
+annoFile_here <- read_tsv("../input/headerNAnnotations_2024_11_06_validatedFortxtComp_wExclud.txt")
 
 # data
-dataFileName <- "data_close2final_MICA_2024-08_complete.txt"
+dataFileName <- "../input/data_close2final_MICA_2024-08_complete.txt"
 mydat_here  <- read_tsv(dataFileName)
 
 # work on rows
@@ -56,11 +56,10 @@ relevantDat <- mydat_here[,keep_idx]
 # check complications manually -> write out to tsv
 length(grep(x = colnames(relevantDat), pattern = "txtcom"))
 gg <- relevantDat[,c(1,grep(x = colnames(relevantDat), pattern = "txtcomp"))]
-write_tsv(x = gg, file = "pMica_complicationsTable_2024-11-1.tsv")
+write_tsv(x = gg, file = "../output/output_pMica_complicationsTable_2024-11-1.tsv")
 
 # write out some special columns
 columnsOI <- c("rboschmerzzeit", "chkdafalgan", "cbodosisdafalgan", "chknovalgin", "cbodosisnovalgin", "chktramal", "cbodosistramal", "chkandere", "txtandere" ,"cbodosisandere", "radschmerzmvorop", "txtwelcheschmerzm")
-dim(columnsOI)
 resultColsOI <- matrix(nrow = nrow(relevantDat))
 for (i in 1:length(columnsOI)) {
   idx <- grep(pattern = columnsOI[i], x = colnames(relevantDat))
@@ -71,8 +70,8 @@ for (i in 1:length(columnsOI)) {
 # fix for first col
 resultColsOI <- resultColsOI[, -1 ]
 dim(resultColsOI)
-write_tsv(resultColsOI, file = "Analgetic_intake_20241030.tsv")
-write_tsv(relevantDat[,c(grep(x = colnames(relevantDat), pattern = "txtcom") )], file = "ShortWay_complications_20241030.tsv")
+write_tsv(resultColsOI, file = "../output/output_Analgetic_intake_20241030.tsv")
+write_tsv(relevantDat[,c(grep(x = colnames(relevantDat), pattern = "txtcom") )], file = "../output/output_ShortWay_complications_20241030.tsv")
 
 
 
@@ -88,14 +87,12 @@ for (i in 1:length(columnsOI2)) {
 # fix for first col
 resultColsOI2 <- resultColsOI2[, -1 ]
 
-dim(resultColsOI2)
-colnames(resultColsOI2)
-
 pre_idx <- grep(x = colnames(resultColsOI2), pattern = "pre")
 colnames(resultColsOI2)[pre_idx]
 
 lastCOI2 <- keepLastValueFromTimeResolvedResultDF(resultColsOI2[,pre_idx])
-hist(lastCOI2)
+
+# get pre means
 pre_mean <- mean(lastCOI2, na.rm = TRUE)
 pre_SD <- sd(lastCOI2, na.rm = TRUE)
 pre_median <- median(lastCOI2, na.rm = TRUE)
@@ -106,41 +103,30 @@ post_idx <- grep(x = colnames(resultColsOI2), pattern = "post")
 colnames(resultColsOI2)[post_idx]
 
 lastCOI3 <- keepLastValueFromTimeResolvedResultDF(resultColsOI2[,post_idx])
-hist(lastCOI3)
+# get post means
 post_mean <- mean(lastCOI3, na.rm = TRUE)
 post_SD <- sd(lastCOI3, na.rm = TRUE)
 post_median <- median(lastCOI3, na.rm = TRUE)
 post_min <- min(lastCOI3, na.rm = TRUE)
 post_max <- max(lastCOI3, na.rm = TRUE)
 
+# is it different?
 boxplot(lastCOI2, lastCOI3)
 
 moreRes <- cbind(pre_mean, pre_median, pre_min, pre_max, post_mean, post_median, post_min, post_max)
 
 # write out results
-write.table(moreRes, file = "PrePost_DMAA_241030.tsv", sep="\t", quote = FALSE)
+write.table(moreRes, file = "../output/output_PrePost_DMAA_241030.tsv", sep="\t", quote = FALSE)
+
 
 hist(lastCOI3, main = "DMAA", xlab = "DMAA post", ylab = "Frequency")
 hist_data <- hist(lastCOI3, plot = FALSE)
 
-# Plot histogram
-hist(lastCOI3, main = "DMAA", xlab = "DMAA post", ylab = "Frequency")
-
-# Add counts on top of the bars
-for (i in 1:length(hist_data$counts)) {
-  text(x = hist_data$mids[i],
-       y = hist_data$counts[i],
-       labels = hist_data$counts[i],
-       pos = 3)
-}
-
-
 
 # plotting
-pdf("DMAA-post.pdf")
+pdf("../output/output_DMAA-post.pdf")
 # Plot histogram
 hist(lastCOI3, main="",xlab = "DMAA post", ylab = "Frequency")
-
 # Add counts on top of the bars
 for (i in 1:length(hist_data$counts)) {
   text(x = hist_data$mids[i],
@@ -150,7 +136,8 @@ for (i in 1:length(hist_data$counts)) {
 }
 dev.off()
 
-pdf("DMAA-pre.pdf")
+
+pdf("../output/output_DMAA-pre.pdf")
 # Plot histogram
 hist(lastCOI2, main="",xlab = "DMAA pre", ylab = "Frequency")
 
@@ -189,7 +176,7 @@ unique(paste(annoToDecodeQuestions$TimeCode, annoToDecodeQuestions$weeks,annoToD
 # decoding from Matrix with annotations
 # here we need to look into!
 myDecodedQs <- DecodeQuestionForOnlyAFewQWithAnnoFile(annoFile = annoToDecodeQuestions, mydat = relevantDat, keyWord = "yes")
-dim(myDecodedQs)
+
 
 
 
@@ -205,7 +192,7 @@ myEQ5D5Lcolumns <- myDecodedQsNoSum[, -grep(x = colnames(myDecodedQsNoSum), patt
 dim(myEQ5D5Lcolumns)
 
 # read in coding table
-myCodingTable <- read_tsv("EQ5DLcodingTable.txt")
+myCodingTable <- read_tsv("../input/EQ5DLcodingTable.txt")
 str(myCodingTable)
 relevantCoding <- cbind(myCodingTable$`5L profile`, myCodingTable$Germany)
 colnames(relevantCoding) <- c("myStringCode", "myNumber")
@@ -248,7 +235,6 @@ myEQ5D5LPreOpValue <- myEQ5D5Lcodes[,1]
 ########
 
 
-
 # work on FFI
 str(annoFile_here)
 FFI_idx <- which(annoFile_here$group == "FFI" & annoFile_here$useIt == "x")
@@ -284,9 +270,6 @@ myFFIOverTime_norm <- cbind(myFFIOverTime_norm, rowMeans(myFFIOverTime_norm[,6:7
 colnames(myFFIOverTime_norm)[8] <- "FFIsums timepoint 6+7"
 boxplot(myFFIOverTime_norm[,c(1:5,8)], main = "FFI", xlab = "timepoint", ylab = "FFI", col = "lightblue")
 
-# how about violinplot instead of boxplot
-# q:   could not find function "violin"
-# a:   install.packages("vioplot")
 # install.packages("vioplot")
 library(vioplot)
 vioplot(myFFIOverTime_norm[,c(1:5,8)], main = "FFI", xlab = "timepoint", ylab = "FFI", col = "lightblue")
@@ -296,7 +279,6 @@ vioplot(myFFIOverTime_norm[,c(1:5,8)], main = "FFI", xlab = "timepoint", ylab = 
 myFFI_diff <- myFFILastEntryInTime - myFFIPreOpValue
 
 
-# 2024-11-06
 # split FFI into subclasses
 # look up and fill matrix
 myPatternVector <- c("last 4 weeks", "complains during", "of foot complain")
@@ -407,8 +389,7 @@ unique(MOXFQ_anno$groupingCode)
 
 
 myMOFXOverTime <- matrix(nrow = nrow(myEQ5D5Lcolumns), ncol = numTimePoint)
-#myMOXFQblock <- as_tibble(myMOXFQblock)
-#myMOFXOverTime <- matrix(nrow = nrow(myMOXFQblock), ncol = length(unique(MOXFQ_anno$groupingCode)))
+
 # look up and fill matrix
 for (i in 1:length(unique(MOXFQ_anno$groupingCode))) {
   subGrp <- unique(MOXFQ_anno$groupingCode)[i]
@@ -477,10 +458,10 @@ getIDx <- grep(x = myLittleFrame$category, pattern = myMatch)
 myMOXFQResultFrame <- matrix(nrow = nrow(myMOXFQblock), ncol = length(myPatternVector)*numTimePoint)
 colnames(myMOXFQResultFrame) <- myColnameSubclassesMOXFQ
 
+subScaleVector <- list(c(1,11,12,15,16), c(2:8), c(9,10,13,14))
 mySubScaleResultFrame <- matrix(nrow = nrow(myMOXFQblock), ncol = length(subScaleVector)*numTimePoint)
 
 myColIterator <- 0
-subScaleVector <- list(c(1,11,12,15,16), c(2:8), c(9,10,13,14))
 rm(myMOXFQblock) # remove the old block
 myColIterator <- 1
 
@@ -515,10 +496,8 @@ for (i in 1:length(unique(MOXFQ_anno$groupingCode))) { # loop over timepoints (7
 
 }
 
-# subscales c("painMOXFQ", "walking_n_standing", "social_interaction")
 # finally resultDF w/ 7 * 3 subscales = 21 columns (1,2,3) for t1 and 4,5,6 for t2 and so on
 dim(mySubScaleResultFrame)
-# View(mySubScaleResultFrame)
 
 # boxplot over time MOXFQ subscales
 # do boxplotting for individual subscales per timepoint
@@ -554,7 +533,7 @@ colnames(walkingNstanding)[4] <- "walkingNstanding timepoint 4"
 colnames(walkingNstanding)[5] <- "walkingNstanding timepoint 5"
 boxplot(walkingNstanding, main = "MOXFQsubscale walkingNstanding", xlab = "timepoint", ylab = "MOXFQsub walkingNstanding", col = "lightblue")
 
-# boxplot social interaction
+# boxplot social_interaction
 boxplot(socialInteraction, main = "MOXFQsubscale social_interaction", xlab = "timepoint", ylab = "MOXFQsub social_interaction", col = "lightblue")
 
 socialInteraction <- mySubScaleResultFrame[,c(3,6,9,12,15,18,21)]
@@ -708,7 +687,7 @@ painKMaxEntryInTime[!is.finite(painKMaxEntryInTime)] <- NA
 sum(!is.na(painKMaxEntryInTime))
 hist(painKMaxEntryInTime)
 
-pdf("analgetics.pdf")
+pdf("../output/output_analgesics.pdf")
 # Plot histogram
 hist(painKMaxEntryInTime, main="",xlab = "weeks", ylab = "Frequency")
 
@@ -723,26 +702,26 @@ for (i in 1:length(hist_data3$counts)) {
 }
 dev.off()
 
-# General raucher
+# General smoker
 genSmoke_idx <- which(annoFile_here$group == "General" & annoFile_here$question == "smoking")
 general_smoke <- as.vector(mydat_here[,genSmoke_idx])
 general_smoke <- data.frame(general_smoke)
 gsVec <- general_smoke %>% pull(1)
 general_smoke <- dplyr::recode(gsVec, "Ja" =  1, "Nein" =  0)
 
-# General Nebenerkrankungen
+# General other diseases
 genotherDis_idx <- which(annoFile_here$group == "General" & annoFile_here$question == "other disease")
 general_otherDis <- as.vector(mydat_here[,genotherDis_idx])
 gsVec <- data.frame(general_otherDis) %>% pull(1)
 general_otherDis <- dplyr::recode(gsVec, "ja" =  1, "nein" =  0)
 
 
-# alter & geschlecht
+# age & sex
 age_idx <- which(annoFile_here$question == "age" & annoFile_here$useIt == "x")
 age <- as.vector(mydat_here[,age_idx])
 ageVec <- data.frame(age) %>% pull(1)
 
-# geschlecht
+# sex
 sex_idx <- which(annoFile_here$question == "sex" & annoFile_here$useIt == "x")
 sex <- as.vector(mydat_here[,sex_idx])
 sexVec <- data.frame(sex) %>% pull(1)
@@ -764,16 +743,14 @@ for (i in 1:length(myWeeks)) {
 # we have to fix that all NAs are zero, -> put NA back in
 Clin_FU[Clin_FU == 0] <- NA
 
-#followUpDurationClin <- dplyr::recode(followUpDurationClin, "7" =  104, "6" =  104, "5" =  52, "4" =  26, "3" =  12, "2" =  6, "1" = 0)
 
 # find from HVpostOp_All the last time point: radiological fu
 followUpDurationRad <-  keepLastValueFromTimeResolvedResultDF(HVpostOp_All)
 dim(HVpostOp_All)
-#followUpDurationRad <- dplyr::recode(followUpDurationRad, "7" =  104, "6" =  104, "5" =  52, "4" =  26, "3" =  12, "2" =  6, "1" = 0)
 Rad_FU <- followUpDurationRad
 
 
-pdf("Rad_FU.pdf")
+pdf("../output/output_Rad_FU.pdf")
 # Plot histogram
 hist(Rad_FU, main="",xlab = "weeks", ylab = "Frequency")
 
@@ -814,9 +791,6 @@ initialsVec <- data.frame(initials) %>% pull(1)
 # bind all together!!
 
 # generals
-# myGenerals <- cbind(initialsVec, postsVec, ageVec, sexVec, followUpDuration, general_smoke, general_otherDis, painKMaxEntryInTime, recommLastEntryInTime, SatisLastEntryInTime, ComplLastEntryInTime)
-# complications are out
-#myGenerals <- cbind(initialsVec, postsVec, ageVec, sexVec, followUpDurationClin, followUpDurationRad, general_smoke, general_otherDis, painKMaxEntryInTime, recommLastEntryInTime, SatisLastEntryInTime)
 myGenerals <- cbind(initialsVec, postsVec, ageVec, sexVec, Clin_FU, Rad_FU, general_smoke, general_otherDis, painKMaxEntryInTime, recommLastEntryInTime, SatisLastEntryInTime)
 
 # radiologicals and more
@@ -836,15 +810,10 @@ dim(finalDF)
 
 
 # filtering!!
-write.table(finalDF, file = "Dataframe_finalDF_withSubclasses_20241212.txt", sep="\t", quote = FALSE)
+write.table(finalDF, file = "../output/output_Dataframe_finalDF_withSubclasses_20241212.txt", sep="\t", quote = FALSE)
 # filter for Postoperativ
-#finalIncluded <- finalDF[finalDF$postsVec == "postoperativ",]
 finalIncluded <- finalDF[!is.na(finalDF$initialsVec),]
-dim(finalIncluded)
-write.table(finalIncluded, file = "Dataframe_finalIncluded_allValuesBeforeMinMaxSummary.txt", sep="\t", quote = FALSE)
-
-#finalQuants <- finalIncluded[,3:ncol(finalIncluded)]
-#str(finalQuants)
+write.table(finalIncluded, file = "../output/output_Dataframe_finalIncluded_allValuesBeforeMinMaxSummary.txt", sep="\t", quote = FALSE)
 
 for (i in 3:ncol(finalIncluded)) {
   finalIncluded[,i] <- as.numeric(finalIncluded[,i])
@@ -859,14 +828,13 @@ ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "HVp")]
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,2]))
 pV <- tt$p.value
 
-pdf("HV-pre-post.pdf")
+pdf("../output/output_HV-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,2]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 
 # boxplotting IMA pre-post
-dim(finalDF)
 colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "IMAp")]
 colnames(ddf)
@@ -878,21 +846,19 @@ boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,2]))
 legend("topright", paste("pValue: ",round(pV,6)))
 
 
-pdf("IMA-pre-post.pdf")
+pdf("../output/output_IMA-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,2]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting DMAA pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "myAOFAS")]
 colnames(ddf)
 
 tt <- t.test(lastCOI2, lastCOI3)
 pV <- tt$p.value
 
-pdf("DMAA-pre-post.pdf")
+pdf("../output/output_DMAA-pre-post.pdf")
 boxplot(lastCOI2, lastCOI3)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
@@ -906,105 +872,91 @@ colnames(ddf)
 tt <- t.test(myAOFASPreOpValue, myAOFASLastEntryInTime)
 pV <- tt$p.value
 
-pdf("AOFAS-pre-post.pdf")
+pdf("../output/output_AOFAS-pre-post.pdf")
 boxplot(myAOFASPreOpValue, myAOFASLastEntryInTime)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting MOXFQ pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "myMOFX")]
 colnames(ddf)
 
 tt <- t.test(myMOFXPreOpValue, myMOFXLastEntryInTime)
 pV <- tt$p.value
 
-pdf("MOXFQ-pre-post.pdf")
+pdf("../output/output_MOXFQ-pre-post.pdf")
 boxplot(myMOFXPreOpValue, myMOFXLastEntryInTime)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting MOXFQsubSocial pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "social")]
 colnames(ddf)
 
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 pV <- tt$p.value
 
-pdf("MOXFQsubSocial interaction-pre-post.pdf")
+pdf("../output/output_MOXFQsubSocial_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting MOXFQsubwalkingNstanding pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "walking")]
 colnames(ddf)
 
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 pV <- tt$p.value
 
-pdf("MOXFQsubwalkingNstanding interaction-pre-post.pdf")
+pdf("../output/output_MOXFQsubwalkingNstanding_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting MOXFQpain pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "painM")]
 colnames(ddf)
 
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 pV <- tt$p.value
 
-pdf("MOXFQsubPain interaction-pre-post.pdf")
+pdf("../output/output_MOXFQsubPain_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting FFI pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "myFFI")]
 colnames(ddf)
 
 tt <- t.test(myFFIPreOpValue, myFFILastEntryInTime)
 pV <- tt$p.value
 
-pdf("FFI-pre-post.pdf")
+pdf("../output/output_FFI-pre-post.pdf")
 boxplot(myFFIPreOpValue, myFFILastEntryInTime)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting FFIsubScales disability pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "disability")]
 colnames(ddf)
 
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 pV <- tt$p.value
 
-pdf("FFIsubScales disability interaction-pre-post.pdf")
+pdf("../output/output_FFIsubScales disability_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
 # boxplotting FFIsubScales difficulty pre-post
-dim(finalDF)
-colnames(finalDF)
 ddf <- finalDF[,grep(x=colnames(finalDF), pattern = "difficulty")]
 colnames(ddf)
 
 tt <- t.test(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 pV <- tt$p.value
 
-pdf("FFIsubScales difficulty interaction-pre-post.pdf")
+pdf("../output/output_FFIsubScales difficulty_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,1]), as.numeric(ddf[,6]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
@@ -1018,7 +970,7 @@ colnames(ddf)
 tt <- t.test(as.numeric(ddf[,2]), as.numeric(ddf[,7]))
 pV <- tt$p.value
 
-pdf("FFIsubScales pain interaction-pre-post.pdf")
+pdf("../output/output_FFIsubScales_pain_interaction-pre-post.pdf")
 boxplot(as.numeric(ddf[,2]), as.numeric(ddf[,7]))
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
@@ -1032,7 +984,7 @@ colnames(ddf)
 tt <- t.test(myEQVASPreOpValue, myEQVASLastEntryInTime)
 pV <- tt$p.value
 
-pdf("EQVAS-pre-post.pdf")
+pdf("../output/output_EQVAS-pre-post.pdf")
 boxplot(myEQVASPreOpValue, myEQVASLastEntryInTime)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
@@ -1046,27 +998,13 @@ colnames(ddf)
 tt <- t.test(myEQ5D5LPreOpValue, myEQ5D5LLastEntryInTime)
 pV <- tt$p.value
 
-pdf("EQ5D5L-pre-post.pdf")
+pdf("../output/output_EQ5D5L-pre-post.pdf")
 boxplot(myEQ5D5LPreOpValue, myEQ5D5LLastEntryInTime)
 legend("topright", paste("pValue: ",round(pV,6)))
 dev.off()
 
-# here from: https://stackoverflow.com/questions/20859271/creating-a-heatmap-where-the-data-has-nan-values-in-it/28878594
-# better dist-function
-
-heatmap.2(as.matrix(finalIncluded[,3:ncol(finalIncluded)]), dendrogram="row", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none")
-heatmap.2(as.matrix(finalIncluded[,3:ncol(finalIncluded)]), dendrogram="both", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(18 ,3))
-heatmap.2(as.matrix(finalIncluded[,3:ncol(finalIncluded)]), dendrogram="col", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(18 ,3))
-heatmap.2(as.matrix(t((finalIncluded[,3:ncol(finalIncluded)]))), dendrogram="col", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(3 ,13))
-heatmap.2(as.matrix(t(finalIncluded[,3:ncol(finalIncluded)])), scale = "row",TRUE,dendrogram="col", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(3 ,13))
-heatmap.2(as.matrix(t(finalIncluded[,3:ncol(finalIncluded)])), scale = "col",TRUE,dendrogram="col", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(3 ,13))
-heatmap.2(as.matrix((finalIncluded[,3:ncol(finalIncluded)])), scale = "row", dendrogram="col", Rowv ="NA", na.color="black", distfun=dist_no_na, trace="none", margins = c(13 ,3))
-
-
-# go for mean and sd and other s
-dim(finalIncluded)
-
-save(finalIncluded, file = "FinalVariablesForRegression_2024-10-10.RData")
+#
+# save(finalIncluded, file = "FinalVariablesForRegression_2024-10-29.RData")
 
 # generate summaries
 colnames(finalIncluded[,3:ncol(finalIncluded)])
@@ -1081,17 +1019,7 @@ myMedians <- apply(finalIncluded[,3:ncol(finalIncluded)],2,median,na.rm=TRUE)
 myResults <- cbind(myMax, myMin, myMeans, myMedians, mySD)
 
 # write out results
-write.table(myResults, file = "myResults_MICA_MeanSDnMore_allIncluded_wPreop_12-12-2024.txt", sep="\t", quote = FALSE)
-
-
-
-
-# Sonntag 18. August 2024 - bis hier validiert mit Michi
-
-
-
-
-
+write.table(myResults, file = "../output/output_myResults_MICA_MeanSDnMore_allIncluded_wPreop_12-12-2024.txt", sep="\t", quote = FALSE)
 
 
 # myAOFASPreOpValue --> is missing overall!
@@ -1111,66 +1039,16 @@ colnames(finalIncluded)[12:16]
 finalIncluded_okForPlotting <- finalIncluded[,-c(7)]
 colnames(finalIncluded_okForPlotting)
 
-# some plotting
-pdf("MyPairs_allNumeric_2024-10-10.pdf",30,30)
-# pairs(final_bado, lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-pairs(finalIncluded_okForPlotting[,3:ncol(finalIncluded_okForPlotting)],lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-dev.off()
-
-pdf("MyPairs_allNumeric_2024-10-10_fix1_betterRead.pdf",20,20)
-# pairs(final_bado, lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-pairs(finalIncluded_okForPlotting[,3:ncol(finalIncluded_okForPlotting)],lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-dev.off()
-
-# some plotting ##### also for subscales!!!
-pdf("MyPairs_allNumeric_2024-10-10.pdf",30,30)
-# pairs(final_bado, lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-pairs(finalIncluded_okForPlotting[,c(3),c(5),c(6),c(8:26),c(31:51)],lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-dev.off()
-
-pdf("MyPairs_allNumeric_2024-10-10_fix1_betterRead.pdf",20,20)
-# pairs(final_bado, lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-pairs(finalIncluded_okForPlotting[,3:ncol(finalIncluded_okForPlotting)],lower.panel = Michipanel.cor, cex.cor = 1, pch="x")
-dev.off()
-
-
-
-dim(finalIncluded_noNAs)
-
-
-
-# story continues
-# FGCZ-Analysis (jonas)
-#- Project: pMica
-#- Date: 2023-05-02
-#- Task: multiple regression
-#- Duration:
-#- What has been done:
-
-# some ideas
-# http://www.sthda.com/english/articles/40-regression-analysis/168-multiple-linear-regression-in-r/
-# https://www.statmethods.net/stats/regression.html (mit bootstrapping)
-
-
-# data
-#save(finalIncluded, file = "FinalVariablesForRegression_2024-07-03.RData")
-# save(finalIncluded, file = "FinalVariablesForRegression_2023-05-15.RData")
-#load("FinalVariablesForRegression_2023-05-15.RData")
-colnames(finalIncluded)
-str(finalIncluded)
 
 
 # Michi hier beginnen mit den linearen Regressionen
-# den code hier ausführen und das i hochzählen
 #load("FinalVariablesForRegression_2024-07-03.RData")
 
 finalIncluded$ComplLastEntryInTime
 
-pdf("recommondation.pdf", 8,8)
+pdf("../output/output_recommondation.pdf", 8,8)
 # Plot histogram
-
 hist(finalIncluded$recommLastEntryInTime, main="",xlab = "Likert scale", ylab = "Frequency")
-
 hist_data5 <- hist(finalIncluded$recommLastEntryInTime, plot = FALSE)
 
 # Add counts on top of the bars
@@ -1182,12 +1060,10 @@ for (i in 1:length(hist_data5$counts)) {
 }
 dev.off()
 
-pdf("satisfaction.pdf", 8,8)
+pdf("../output/output_satisfaction.pdf", 8,8)
 # Plot histogram
 hist(finalIncluded$SatisLastEntryInTime, main="",xlab = "Likert scale", ylab = "Frequency")
-
 hist_data6 <- hist(finalIncluded$SatisLastEntryInTime, plot = FALSE)
-
 # Add counts on top of the bars
 for (i in 1:length(hist_data6$counts)) {
   text(x = hist_data6$mids[i],
@@ -1196,67 +1072,6 @@ for (i in 1:length(hist_data6$counts)) {
        pos = 3)
 }
 dev.off()
-
-# Zielvariable
-# e.g
-finalIncluded$myEQ5D5LLastEntryInTime
-dim(finalIncluded)
-
-zielVars <- c("myEQ5D5LLastEntryInTime", "myMOFXLastEntryInTime","myEQVASLastEntryInTime", "myAOFASLastEntryInTime", "myFFILastEntryInTime", "SatisLastEntryInTime")
-# zielVars <- c("myMOFX_diff","myEQVAS_diff", "myAOFAS_diff", "myFFI_diff", "SatisLastEntryInTime")
-myZielDF <- finalIncluded[,zielVars]
-
-# erklVars <- c("ageVec", "sexVec", "painKMaxEntryInTime", "SatisLastEntryInTime", "ComplLastEntryInTime", "myFFILastEntryInTime", "HVpraeOpLastEntryInTime",  "HVpostOpLastEntryInTime", "HV_diffLastEntryInTime", "IMApraeOpLastEntryInTime", "IMApostOpLastEntryInTime", "IMA_diffLastEntryInTime")
-# erklVars <- c("ageVec", "sexVec", "HVpraeOpLastEntryInTime",  "HVpostOpLastEntryInTime", "HV_diffLastEntryInTime", "IMApraeOpLastEntryInTime", "IMApostOpLastEntryInTime", "IMA_diffLastEntryInTime", "painKMaxEntryInTime")
-# erklVars <- c("ageVec", "HVpraeOpLastEntryInTime",  "HVpostOpLastEntryInTime", "IMApraeOpLastEntryInTime", "IMApostOpLastEntryInTime", "painKMaxEntryInTime")
-
-
-erklVars <- c("ageVec", "HVpostOpLastEntryInTime",  "HV_diffLastEntryInTime", "IMApostOpLastEntryInTime", "IMA_diffLastEntryInTime")
-
-# erklVars <- c("ageVec", "HVpostOpLastEntryInTime",  "HV_diffLastEntryInTime", "IMApostOpLastEntryInTime", "IMA_diffLastEntryInTime", "painKMaxEntryInTime")
-# erklVars <- c("ageVec", "HVpraeOpLastEntryInTime", "HVpostOpLastEntryInTime",  "HV_diffLastEntryInTime", "IMApraeOpLastEntryInTime", "IMApostOpLastEntryInTime", "IMA_diffLastEntryInTime", "painKMaxEntryInTime")
-
-# erklVars <- c("ageVec", "HVpostOpLastEntryInTime", "IMApostOpLastEntryInTime", "painKMaxEntryInTime")
-# erklVars <- c("ageVec", "HV_diffLastEntryInTime", "IMA_diffLastEntryInTime", "painKMaxEntryInTime")
-
-
-table(finalIncluded$sexVec)
-length(erklVars)
-
-myDF <- finalIncluded[,erklVars]
-str(myDF)
-
-# clean for NAs
-dim(myDF)
-myDF_noNA <- na.omit(myDF)
-dim(myDF_noNA)
-
-colnames(myDF_noNA)
-
-# define here which ZielVariable_index should be explained!
-myI <- 6
-(nn <- colnames(myZielDF)[myI])
-
-# hier muss zielvariable leider per hand definiert werden
-myFit <- lm(myZielDF[,myI] ~ ., data = myDF)
-summary(myFit)
-#confint(myFit)
-
-
-lm_fit_backwards <- step(myFit,direction='backward')
-summary(lm_fit_backwards)
-
-
-# QC of the fit -> does not look bad, no call for transformation
-plot(myFit)
-
-
-
-#pairewise
-colnames(finalIncluded)
-singleFit <- lm(finalIncluded$myFFILastEntryInTime~finalIncluded$painKMaxEntryInTime)
-
-
 
 
 
