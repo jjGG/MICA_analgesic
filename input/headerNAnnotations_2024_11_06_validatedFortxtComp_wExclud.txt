@@ -1,0 +1,1928 @@
+mainHeader	weeks	useIt	FurtherProcess	question	category	group
+ExcludeFromStudy		x	0	0	0	0
+mnppid	0	0	0	0	0	0
+mnpaid	0	x	0	ID	0	0
+mnplabid	0	0	0	0	0	0
+mnpptnid	0	0	0	0	0	0
+mnpctrid	0	0	0	0	0	0
+mnpcid	0	0	0	0	0	0
+mnpcs0	0	0	0	0	0	0
+mnpcs1	0	0	0	0	0	0
+mnpcs3	0	0	0	0	0	0
+mnpcs4	0	0	0	0	0	0
+mnpcs5	0	0	0	0	0	0
+mnpcs7	0	0	0	0	0	0
+mnpvisstartdate	0	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpdocid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnplastedit	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpptnid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnppusid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnplang	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_sigstatus	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_sigreason	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvsno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvslbl	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpcvpid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvisid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvisno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvispdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpvisfdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfcs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfcs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfcs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfcs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfsqa	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnpfsct	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_mnphide	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicageneral_radpostprae	General/pr√§operativ	x	0	post	Studie post vs pre	0
+v13426_1_mnpmicageneral_intalter	General/pr√§operativ	x	0	age	0	0
+v13426_1_mnpmicageneral_radgeschlecht	General/pr√§operativ	x	0	sex	0	0
+v13426_1_mnpmicageneral_datop	General/pr√§operativ	x	0	op_date	0	0
+v13426_1_mnpmicageneral_radraucher	General/pr√§operativ	x	0	smoking	Ja/Nein (0/1)	General
+v13426_1_mnpmicageneral_chknebenerkrankungen	General/pr√§operativ	x	0	other disease	checkbox	General
+v13426_1_mnpmicageneral_chkadipositas	General/pr√§operativ	x	0	adipositas	checkbox	General
+v13426_1_mnpmicageneral_chkgefaesserkrankung	General/pr√§operativ	x	0	vessels1	checkbox	General
+v13426_1_mnpmicageneral_chkherzinfarkt	General/pr√§operativ	x	0	heart	checkbox	General
+v13426_1_mnpmicageneral_chkcvi	General/pr√§operativ	x	0	cvi	checkbox	General
+v13426_1_mnpmicageneral_chkatherosklerose	General/pr√§operativ	x	0	vessels2	checkbox	General
+v13426_1_mnpmicageneral_chkdm	General/pr√§operativ	x	0	dm	checkbox	General
+v13426_1_mnpmicageneral_chkrheuma	General/pr√§operativ	x	0	rheuma	checkbox	General
+v13426_1_mnpmicageneral_chkweitere	General/pr√§operativ	x	0	further disease	checkbox	General
+v13426_1_mnpmicageneral_txtweitere	General/pr√§operativ	x	0	further disease 2	checkbox	General
+v13426_1_mnpmicawrittenconsent_mnpdocid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnplastedit	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpptnid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnppusid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnplang	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_sigstatus	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_sigreason	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvsno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvslbl	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpcvpid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvisid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvisno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvispdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpvisfdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfcs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfcs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfcs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfcs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfsqa	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnpfsct	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_mnphide	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_daticpatient	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicawrittenconsent_daticinvestigator	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpdocid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnplastedit	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpptnid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnppusid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnplang	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_sigstatus	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_sigreason	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvsno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvslbl	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpcvpid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvisid	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvisno	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvispdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpvisfdt	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfcs0	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfcs1	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfcs2	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfcs3	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfsqa	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnpfsct	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_mnphide	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_rad18	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_radinfconsent	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_raddemenz	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_radkornitiv	General/pr√§operativ	0	0	0	0	0
+v13426_1_mnpmicaeinauschluss_radeinschluss	General/pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpdocid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnplastedit	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpptnid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnppusid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnplang	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_sigstatus	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_sigreason	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvsno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvslbl	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpcvpid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvisid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvisno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvispdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpvisfdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfcs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfcs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfcs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfcs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfsqa	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnpfsct	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_mnphide	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaquestionnaire_chkkeineproblaufen	pr√§operativ	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkleichtproblaufen	pr√§operativ	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkmaessproblaufen	pr√§operativ	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkschwerproblaufen	pr√§operativ	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chknichtproblaufen	pr√§operativ	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkkeineprobwaschen	pr√§operativ	x	xx	Selbstversorgung	1	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkleichtprobwaschen	pr√§operativ	x	xx	Selbstversorgung	2	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkmaessprobwaschen	pr√§operativ	x	xx	Selbstversorgung	3	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkschwerprobwaschen	pr√§operativ	x	xx	Selbstversorgung	4	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chknichtprobwaschen	pr√§operativ	x	xx	Selbstversorgung	5	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkkeineprobakt	pr√§operativ	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkleichtproblakt	pr√§operativ	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkmaessproblakt	pr√§operativ	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkschwerprobakt	pr√§operativ	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chknichtprobakt	pr√§operativ	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkkeineprobschmerz	pr√§operativ	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkleichtprobschmerz	pr√§operativ	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkmaessprobschmerz	pr√§operativ	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkschwerprobschmerz	pr√§operativ	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chknichtprobschmerz	pr√§operativ	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkkeineprobangst	pr√§operativ	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkleichtprobangst	pr√§operativ	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkmaessprobangst	pr√§operativ	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkschwerprobangst	pr√§operativ	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chknichtprobangst	pr√§operativ	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13428_1_mnpmicaquestionnaire_chkkeineprobschuhe	pr√§operativ	x	xx	Schuhwerk	1	shoe wear
+v13428_1_mnpmicaquestionnaire_chkleichtprobschuhe	pr√§operativ	x	xx	Schuhwerk	2	shoe wear
+v13428_1_mnpmicaquestionnaire_chkmaessprobschuhe	pr√§operativ	x	xx	Schuhwerk	3	shoe wear
+v13428_1_mnpmicaquestionnaire_rboschmerzzeit	pr√§operativ	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13428_1_mnpmicaquestionnaire_chkdafalgan	pr√§operativ	x	0	dafalgan	checkbox	pain killers
+v13428_1_mnpmicaquestionnaire_cbodosisdafalgan	pr√§operativ	x	0	daily intake	0	pain killers
+v13428_1_mnpmicaquestionnaire_chknovalgin	pr√§operativ	x	0	novalgin	checkbox	pain killers
+v13428_1_mnpmicaquestionnaire_cbodosisnovalgin	pr√§operativ	x	0	daily intake	0	pain killers
+v13428_1_mnpmicaquestionnaire_chktramal	pr√§operativ	x	0	tramal	checkbox	pain killers
+v13428_1_mnpmicaquestionnaire_cbodosistramal	pr√§operativ	x	0	daily intake	0	pain killers
+v13428_1_mnpmicaquestionnaire_chkandere	pr√§operativ	x	0	others	checkbox	pain killers
+v13428_1_mnpmicaquestionnaire_txtandere	pr√§operativ	x	0	0	0	pain killers
+v13428_1_mnpmicaquestionnaire_cbodosisandere	pr√§operativ	x	0	0	0	pain killers
+v13428_1_mnpmicaquestionnaire_radschmerzmvorop	pr√§operativ	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13428_1_mnpmicaquestionnaire_txtwelcheschmerzm	pr√§operativ	x	0	what kind of preop	0	pain killers
+v13428_1_mnpmicaquestionnaire_intgengesundheit	pr√§operativ	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13428_1_mnpmicaquestionnaire_radschmerzschlimm	pr√§operativ	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzmorgen	pr√§operativ	x	0	0 bis 10	last 4 weeks morning	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzbarfussla	pr√§operativ	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzbarfussst	pr√§operativ	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzlaufsch	pr√§operativ	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzstehensch	pr√§operativ	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzlaufenort	pr√§operativ	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzstehenort	pr√§operativ	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzabend	pr√§operativ	x	0	0 bis 10	last 4 weeks evening	FFI
+v13428_1_mnpmicaquestionnaire_radlaufenwohnung	pr√§operativ	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13428_1_mnpmicaquestionnaire_radgehenausserhaus	pr√§operativ	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13428_1_mnpmicaquestionnaire_radlaufenmaxstrecke	pr√§operativ	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13428_1_mnpmicaquestionnaire_radtreppeoben	pr√§operativ	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13428_1_mnpmicaquestionnaire_radtreppeunten	pr√§operativ	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13428_1_mnpmicaquestionnaire_radstehenzehenspitz	pr√§operativ	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13428_1_mnpmicaquestionnaire_radaufstehenstuhl	pr√§operativ	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13428_1_mnpmicaquestionnaire_radbordsteinkante	pr√§operativ	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13428_1_mnpmicaquestionnaire_radschnellgehen	pr√§operativ	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13428_1_mnpmicaquestionnaire_radhilfmittelzuhause	pr√§operativ	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13428_1_mnpmicaquestionnaire_radhilfsmittelausha	pr√§operativ	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13428_1_mnpmicaquestionnaire_radfussprobzuhause	pr√§operativ	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13428_1_mnpmicaquestionnaire_radfussprobbett	pr√§operativ	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13428_1_mnpmicaquestionnaire_radfussprobaktiveins	pr√§operativ	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13428_1_mnpmicaquestionnaire_radschmerzenfuss	pr√§operativ	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13428_1_mnpmicaquestionnaire_radkeinelangenstreck	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radaenderungartweise	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radgehelangsam	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radanhalten	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radoberflaeche	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radlangestehen	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radauto	pr√§operativ	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13428_1_mnpmicaquestionnaire_radselbstbewusst	pr√§operativ	x	0	0 bis 4 	social_interaction	MOXFQ
+v13428_1_mnpmicaquestionnaire_radschuhe	pr√§operativ	x	0	0 bis 4 	social_interaction	MOXFQ
+v13428_1_mnpmicaquestionnaire_radschmerzhaftabend	pr√§operativ	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13428_1_mnpmicaquestionnaire_radstechend	pr√§operativ	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13428_1_mnpmicaquestionnaire_radarbeitalltagakt	pr√§operativ	x	0	0 bis 4 	social_interaction	MOXFQ
+v13428_1_mnpmicaquestionnaire_radsozial	pr√§operativ	x	0	0 bis 4 	social_interaction	MOXFQ
+v13428_1_mnpmicaquestionnaire_radschmerznachts	pr√§operativ	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13428_1_mnpmicaquestionnaire_radschmerzenfuss1	pr√§operativ	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13428_1_mnpmicaquestionnaire_radzufrieden	pr√§operativ	x	0	0 bis 10	0	satisfaction
+v13428_1_mnpmicaquestionnaire_radweiterempfehlung	pr√§operativ	x	0	0 bis 10	0	recommondation
+v13425_1_mnpmicaquestionnaire_mnpdocid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnplastedit	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpptnid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnppusid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnplang	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_sigstatus	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_sigreason	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvsno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvslbl	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpcvpid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvisid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvisno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvispdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpvisfdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfcs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfcs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfcs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfcs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfsqa	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnpfsct	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_mnphide	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaquestionnaire_chkkeineproblaufen	6 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkleichtproblaufen	6 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkmaessproblaufen	6 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkschwerproblaufen	6 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chknichtproblaufen	6 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkkeineprobwaschen	6 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkleichtprobwaschen	6 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkmaessprobwaschen	6 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkschwerprobwaschen	6 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chknichtprobwaschen	6 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkkeineprobakt	6 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkleichtproblakt	6 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkmaessproblakt	6 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkschwerprobakt	6 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chknichtprobakt	6 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkkeineprobschmerz	6 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkleichtprobschmerz	6 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkmaessprobschmerz	6 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkschwerprobschmerz	6 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chknichtprobschmerz	6 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkkeineprobangst	6 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkleichtprobangst	6 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkmaessprobangst	6 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkschwerprobangst	6 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chknichtprobangst	6 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13425_1_mnpmicaquestionnaire_chkkeineprobschuhe	6 weeks	x	xx	Schuhwerk	1	shoe wear
+v13425_1_mnpmicaquestionnaire_chkleichtprobschuhe	6 weeks	x	xx	Schuhwerk	2	shoe wear
+v13425_1_mnpmicaquestionnaire_chkmaessprobschuhe	6 weeks	x	xx	Schuhwerk	3	shoe wear
+v13425_1_mnpmicaquestionnaire_rboschmerzzeit	6 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13425_1_mnpmicaquestionnaire_chkdafalgan	6 weeks	x	0	dafalgan	checkbox	pain killers
+v13425_1_mnpmicaquestionnaire_cbodosisdafalgan	6 weeks	x	0	daily intake	0	pain killers
+v13425_1_mnpmicaquestionnaire_chknovalgin	6 weeks	x	0	novalgin	checkbox	pain killers
+v13425_1_mnpmicaquestionnaire_cbodosisnovalgin	6 weeks	x	0	daily intake	0	pain killers
+v13425_1_mnpmicaquestionnaire_chktramal	6 weeks	x	0	tramal	checkbox	pain killers
+v13425_1_mnpmicaquestionnaire_cbodosistramal	6 weeks	x	0	daily intake	0	pain killers
+v13425_1_mnpmicaquestionnaire_chkandere	6 weeks	x	0	others	checkbox	pain killers
+v13425_1_mnpmicaquestionnaire_txtandere	6 weeks	x	0	0	0	pain killers
+v13425_1_mnpmicaquestionnaire_cbodosisandere	6 weeks	x	0	0	0	pain killers
+v13425_1_mnpmicaquestionnaire_radschmerzmvorop	6 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13425_1_mnpmicaquestionnaire_txtwelcheschmerzm	6 weeks	x	0	what kind of preop	0	pain killers
+v13425_1_mnpmicaquestionnaire_intgengesundheit	6 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13425_1_mnpmicaquestionnaire_radschmerzschlimm	6 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzmorgen	6 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzbarfussla	6 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzbarfussst	6 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzlaufsch	6 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzstehensch	6 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzlaufenort	6 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzstehenort	6 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzabend	6 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13425_1_mnpmicaquestionnaire_radlaufenwohnung	6 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13425_1_mnpmicaquestionnaire_radgehenausserhaus	6 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13425_1_mnpmicaquestionnaire_radlaufenmaxstrecke	6 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13425_1_mnpmicaquestionnaire_radtreppeoben	6 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13425_1_mnpmicaquestionnaire_radtreppeunten	6 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13425_1_mnpmicaquestionnaire_radstehenzehenspitz	6 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13425_1_mnpmicaquestionnaire_radaufstehenstuhl	6 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13425_1_mnpmicaquestionnaire_radbordsteinkante	6 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13425_1_mnpmicaquestionnaire_radschnellgehen	6 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13425_1_mnpmicaquestionnaire_radhilfmittelzuhause	6 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13425_1_mnpmicaquestionnaire_radhilfsmittelausha	6 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13425_1_mnpmicaquestionnaire_radfussprobzuhause	6 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13425_1_mnpmicaquestionnaire_radfussprobbett	6 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13425_1_mnpmicaquestionnaire_radfussprobaktiveins	6 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13425_1_mnpmicaquestionnaire_radschmerzenfuss	6 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13425_1_mnpmicaquestionnaire_radkeinelangenstreck	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radaenderungartweise	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radgehelangsam	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radanhalten	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radoberflaeche	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radlangestehen	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radauto	6 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13425_1_mnpmicaquestionnaire_radselbstbewusst	6 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13425_1_mnpmicaquestionnaire_radschuhe	6 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13425_1_mnpmicaquestionnaire_radschmerzhaftabend	6 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13425_1_mnpmicaquestionnaire_radstechend	6 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13425_1_mnpmicaquestionnaire_radarbeitalltagakt	6 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13425_1_mnpmicaquestionnaire_radsozial	6 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13425_1_mnpmicaquestionnaire_radschmerznachts	6 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13425_1_mnpmicaquestionnaire_radschmerzenfuss1	6 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13425_1_mnpmicaquestionnaire_radzufrieden	6 weeks	x	0	0 bis 10	0	satisfaction
+v13425_1_mnpmicaquestionnaire_radweiterempfehlung	6 weeks	x	0	0 bis 10	0	recommondation
+v13430_1_mnpmicaquestionnaire_mnpdocid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnplastedit	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpptnid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnppusid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnplang	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_sigstatus	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_sigreason	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvsno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvslbl	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpcvpid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvisid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvisno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvispdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpvisfdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfcs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfcs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfcs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfcs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfsqa	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnpfsct	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_mnphide	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaquestionnaire_chkkeineproblaufen	12 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkleichtproblaufen	12 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkmaessproblaufen	12 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkschwerproblaufen	12 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chknichtproblaufen	12 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkkeineprobwaschen	12 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkleichtprobwaschen	12 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkmaessprobwaschen	12 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkschwerprobwaschen	12 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chknichtprobwaschen	12 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkkeineprobakt	12 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkleichtproblakt	12 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkmaessproblakt	12 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkschwerprobakt	12 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chknichtprobakt	12 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkkeineprobschmerz	12 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkleichtprobschmerz	12 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkmaessprobschmerz	12 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkschwerprobschmerz	12 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chknichtprobschmerz	12 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkkeineprobangst	12 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkleichtprobangst	12 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkmaessprobangst	12 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkschwerprobangst	12 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chknichtprobangst	12 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13430_1_mnpmicaquestionnaire_chkkeineprobschuhe	12 weeks	x	xx	Schuhwerk	1	shoe wear
+v13430_1_mnpmicaquestionnaire_chkleichtprobschuhe	12 weeks	x	xx	Schuhwerk	2	shoe wear
+v13430_1_mnpmicaquestionnaire_chkmaessprobschuhe	12 weeks	x	xx	Schuhwerk	3	shoe wear
+v13430_1_mnpmicaquestionnaire_rboschmerzzeit	12 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13430_1_mnpmicaquestionnaire_chkdafalgan	12 weeks	x	0	dafalgan	checkbox	pain killers
+v13430_1_mnpmicaquestionnaire_cbodosisdafalgan	12 weeks	x	0	daily intake	0	pain killers
+v13430_1_mnpmicaquestionnaire_chknovalgin	12 weeks	x	0	novalgin	checkbox	pain killers
+v13430_1_mnpmicaquestionnaire_cbodosisnovalgin	12 weeks	x	0	daily intake	0	pain killers
+v13430_1_mnpmicaquestionnaire_chktramal	12 weeks	x	0	tramal	checkbox	pain killers
+v13430_1_mnpmicaquestionnaire_cbodosistramal	12 weeks	x	0	daily intake	0	pain killers
+v13430_1_mnpmicaquestionnaire_chkandere	12 weeks	x	0	others	checkbox	pain killers
+v13430_1_mnpmicaquestionnaire_txtandere	12 weeks	x	0	0	0	pain killers
+v13430_1_mnpmicaquestionnaire_cbodosisandere	12 weeks	x	0	0	0	pain killers
+v13430_1_mnpmicaquestionnaire_radschmerzmvorop	12 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13430_1_mnpmicaquestionnaire_txtwelcheschmerzm	12 weeks	x	0	what kind of preop	0	pain killers
+v13430_1_mnpmicaquestionnaire_intgengesundheit	12 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13430_1_mnpmicaquestionnaire_radschmerzschlimm	12 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzmorgen	12 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzbarfussla	12 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzbarfussst	12 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzlaufsch	12 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzstehensch	12 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzlaufenort	12 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzstehenort	12 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzabend	12 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13430_1_mnpmicaquestionnaire_radlaufenwohnung	12 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13430_1_mnpmicaquestionnaire_radgehenausserhaus	12 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13430_1_mnpmicaquestionnaire_radlaufenmaxstrecke	12 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13430_1_mnpmicaquestionnaire_radtreppeoben	12 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13430_1_mnpmicaquestionnaire_radtreppeunten	12 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13430_1_mnpmicaquestionnaire_radstehenzehenspitz	12 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13430_1_mnpmicaquestionnaire_radaufstehenstuhl	12 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13430_1_mnpmicaquestionnaire_radbordsteinkante	12 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13430_1_mnpmicaquestionnaire_radschnellgehen	12 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13430_1_mnpmicaquestionnaire_radhilfmittelzuhause	12 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13430_1_mnpmicaquestionnaire_radhilfsmittelausha	12 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13430_1_mnpmicaquestionnaire_radfussprobzuhause	12 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13430_1_mnpmicaquestionnaire_radfussprobbett	12 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13430_1_mnpmicaquestionnaire_radfussprobaktiveins	12 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13430_1_mnpmicaquestionnaire_radschmerzenfuss	12 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13430_1_mnpmicaquestionnaire_radkeinelangenstreck	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radaenderungartweise	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radgehelangsam	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radanhalten	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radoberflaeche	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radlangestehen	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radauto	12 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13430_1_mnpmicaquestionnaire_radselbstbewusst	12 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13430_1_mnpmicaquestionnaire_radschuhe	12 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13430_1_mnpmicaquestionnaire_radschmerzhaftabend	12 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13430_1_mnpmicaquestionnaire_radstechend	12 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13430_1_mnpmicaquestionnaire_radarbeitalltagakt	12 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13430_1_mnpmicaquestionnaire_radsozial	12 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13430_1_mnpmicaquestionnaire_radschmerznachts	12 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13430_1_mnpmicaquestionnaire_radschmerzenfuss1	12 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13430_1_mnpmicaquestionnaire_radzufrieden	12 weeks	x	0	0 bis 10	0	satisfaction
+v13430_1_mnpmicaquestionnaire_radweiterempfehlung	12 weeks	x	0	0 bis 10	0	recommondation
+v13429_1_mnpmicaquestionnaire_mnpdocid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnplastedit	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpptnid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnppusid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnplang	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_sigstatus	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_sigreason	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvsno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvslbl	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpcvpid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvisid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvisno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvispdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpvisfdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfcs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfcs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfcs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfcs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfsqa	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnpfsct	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_mnphide	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaquestionnaire_chkkeineproblaufen	26 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkleichtproblaufen	26 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkmaessproblaufen	26 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkschwerproblaufen	26 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chknichtproblaufen	26 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkkeineprobwaschen	26 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkleichtprobwaschen	26 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkmaessprobwaschen	26 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkschwerprobwaschen	26 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chknichtprobwaschen	26 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkkeineprobakt	26 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkleichtproblakt	26 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkmaessproblakt	26 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkschwerprobakt	26 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chknichtprobakt	26 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkkeineprobschmerz	26 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkleichtprobschmerz	26 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkmaessprobschmerz	26 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkschwerprobschmerz	26 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chknichtprobschmerz	26 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkkeineprobangst	26 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkleichtprobangst	26 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkmaessprobangst	26 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkschwerprobangst	26 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chknichtprobangst	26 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13429_1_mnpmicaquestionnaire_chkkeineprobschuhe	26 weeks	x	xx	Schuhwerk	1	shoe wear
+v13429_1_mnpmicaquestionnaire_chkleichtprobschuhe	26 weeks	x	xx	Schuhwerk	2	shoe wear
+v13429_1_mnpmicaquestionnaire_chkmaessprobschuhe	26 weeks	x	xx	Schuhwerk	3	shoe wear
+v13429_1_mnpmicaquestionnaire_rboschmerzzeit	26 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13429_1_mnpmicaquestionnaire_chkdafalgan	26 weeks	x	0	dafalgan	checkbox	pain killers
+v13429_1_mnpmicaquestionnaire_cbodosisdafalgan	26 weeks	x	0	daily intake	0	pain killers
+v13429_1_mnpmicaquestionnaire_chknovalgin	26 weeks	x	0	novalgin	checkbox	pain killers
+v13429_1_mnpmicaquestionnaire_cbodosisnovalgin	26 weeks	x	0	daily intake	0	pain killers
+v13429_1_mnpmicaquestionnaire_chktramal	26 weeks	x	0	tramal	checkbox	pain killers
+v13429_1_mnpmicaquestionnaire_cbodosistramal	26 weeks	x	0	daily intake	0	pain killers
+v13429_1_mnpmicaquestionnaire_chkandere	26 weeks	x	0	others	checkbox	pain killers
+v13429_1_mnpmicaquestionnaire_txtandere	26 weeks	x	0	0	0	pain killers
+v13429_1_mnpmicaquestionnaire_cbodosisandere	26 weeks	x	0	0	0	pain killers
+v13429_1_mnpmicaquestionnaire_radschmerzmvorop	26 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13429_1_mnpmicaquestionnaire_txtwelcheschmerzm	26 weeks	x	0	what kind of preop	0	pain killers
+v13429_1_mnpmicaquestionnaire_intgengesundheit	26 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13429_1_mnpmicaquestionnaire_radschmerzschlimm	26 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzmorgen	26 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzbarfussla	26 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzbarfussst	26 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzlaufsch	26 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzstehensch	26 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzlaufenort	26 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzstehenort	26 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzabend	26 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13429_1_mnpmicaquestionnaire_radlaufenwohnung	26 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13429_1_mnpmicaquestionnaire_radgehenausserhaus	26 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13429_1_mnpmicaquestionnaire_radlaufenmaxstrecke	26 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13429_1_mnpmicaquestionnaire_radtreppeoben	26 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13429_1_mnpmicaquestionnaire_radtreppeunten	26 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13429_1_mnpmicaquestionnaire_radstehenzehenspitz	26 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13429_1_mnpmicaquestionnaire_radaufstehenstuhl	26 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13429_1_mnpmicaquestionnaire_radbordsteinkante	26 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13429_1_mnpmicaquestionnaire_radschnellgehen	26 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13429_1_mnpmicaquestionnaire_radhilfmittelzuhause	26 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13429_1_mnpmicaquestionnaire_radhilfsmittelausha	26 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13429_1_mnpmicaquestionnaire_radfussprobzuhause	26 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13429_1_mnpmicaquestionnaire_radfussprobbett	26 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13429_1_mnpmicaquestionnaire_radfussprobaktiveins	26 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13429_1_mnpmicaquestionnaire_radschmerzenfuss	26 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13429_1_mnpmicaquestionnaire_radkeinelangenstreck	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radaenderungartweise	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radgehelangsam	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radanhalten	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radoberflaeche	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radlangestehen	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radauto	26 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13429_1_mnpmicaquestionnaire_radselbstbewusst	26 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13429_1_mnpmicaquestionnaire_radschuhe	26 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13429_1_mnpmicaquestionnaire_radschmerzhaftabend	26 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13429_1_mnpmicaquestionnaire_radstechend	26 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13429_1_mnpmicaquestionnaire_radarbeitalltagakt	26 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13429_1_mnpmicaquestionnaire_radsozial	26 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13429_1_mnpmicaquestionnaire_radschmerznachts	26 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13429_1_mnpmicaquestionnaire_radschmerzenfuss1	26 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13429_1_mnpmicaquestionnaire_radzufrieden	26 weeks	x	0	0 bis 10	0	satisfaction
+v13429_1_mnpmicaquestionnaire_radweiterempfehlung	26 weeks	x	0	0 bis 10	0	recommondation
+v13427_1_mnpmicaquestionnaire_mnpdocid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnplastedit	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpptnid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnppusid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnplang	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_sigstatus	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_sigreason	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvsno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvslbl	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpcvpid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvisid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvisno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvispdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpvisfdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfcs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfcs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfcs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfcs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfsqa	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnpfsct	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_mnphide	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaquestionnaire_chkkeineproblaufen	52 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkleichtproblaufen	52 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkmaessproblaufen	52 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkschwerproblaufen	52 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chknichtproblaufen	52 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkkeineprobwaschen	52 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkleichtprobwaschen	52 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkmaessprobwaschen	52 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkschwerprobwaschen	52 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chknichtprobwaschen	52 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkkeineprobakt	52 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkleichtproblakt	52 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkmaessproblakt	52 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkschwerprobakt	52 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chknichtprobakt	52 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkkeineprobschmerz	52 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkleichtprobschmerz	52 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkmaessprobschmerz	52 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkschwerprobschmerz	52 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chknichtprobschmerz	52 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkkeineprobangst	52 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkleichtprobangst	52 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkmaessprobangst	52 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkschwerprobangst	52 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chknichtprobangst	52 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13427_1_mnpmicaquestionnaire_chkkeineprobschuhe	52 weeks	x	xx	Schuhwerk	1	shoe wear
+v13427_1_mnpmicaquestionnaire_chkleichtprobschuhe	52 weeks	x	xx	Schuhwerk	2	shoe wear
+v13427_1_mnpmicaquestionnaire_chkmaessprobschuhe	52 weeks	x	xx	Schuhwerk	3	shoe wear
+v13427_1_mnpmicaquestionnaire_rboschmerzzeit	52 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13427_1_mnpmicaquestionnaire_chkdafalgan	52 weeks	x	0	dafalgan	checkbox	pain killers
+v13427_1_mnpmicaquestionnaire_cbodosisdafalgan	52 weeks	x	0	daily intake	0	pain killers
+v13427_1_mnpmicaquestionnaire_chknovalgin	52 weeks	x	0	novalgin	checkbox	pain killers
+v13427_1_mnpmicaquestionnaire_cbodosisnovalgin	52 weeks	x	0	daily intake	0	pain killers
+v13427_1_mnpmicaquestionnaire_chktramal	52 weeks	x	0	tramal	checkbox	pain killers
+v13427_1_mnpmicaquestionnaire_cbodosistramal	52 weeks	x	0	daily intake	0	pain killers
+v13427_1_mnpmicaquestionnaire_chkandere	52 weeks	x	0	others	checkbox	pain killers
+v13427_1_mnpmicaquestionnaire_txtandere	52 weeks	x	0	0	0	pain killers
+v13427_1_mnpmicaquestionnaire_cbodosisandere	52 weeks	x	0	0	0	pain killers
+v13427_1_mnpmicaquestionnaire_radschmerzmvorop	52 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13427_1_mnpmicaquestionnaire_txtwelcheschmerzm	52 weeks	x	0	what kind of preop	0	pain killers
+v13427_1_mnpmicaquestionnaire_intgengesundheit	52 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13427_1_mnpmicaquestionnaire_radschmerzschlimm	52 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzmorgen	52 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzbarfussla	52 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzbarfussst	52 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzlaufsch	52 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzstehensch	52 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzlaufenort	52 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzstehenort	52 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzabend	52 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13427_1_mnpmicaquestionnaire_radlaufenwohnung	52 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13427_1_mnpmicaquestionnaire_radgehenausserhaus	52 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13427_1_mnpmicaquestionnaire_radlaufenmaxstrecke	52 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13427_1_mnpmicaquestionnaire_radtreppeoben	52 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13427_1_mnpmicaquestionnaire_radtreppeunten	52 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13427_1_mnpmicaquestionnaire_radstehenzehenspitz	52 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13427_1_mnpmicaquestionnaire_radaufstehenstuhl	52 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13427_1_mnpmicaquestionnaire_radbordsteinkante	52 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13427_1_mnpmicaquestionnaire_radschnellgehen	52 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13427_1_mnpmicaquestionnaire_radhilfmittelzuhause	52 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13427_1_mnpmicaquestionnaire_radhilfsmittelausha	52 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13427_1_mnpmicaquestionnaire_radfussprobzuhause	52 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13427_1_mnpmicaquestionnaire_radfussprobbett	52 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13427_1_mnpmicaquestionnaire_radfussprobaktiveins	52 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13427_1_mnpmicaquestionnaire_radschmerzenfuss	52 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13427_1_mnpmicaquestionnaire_radkeinelangenstreck	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radaenderungartweise	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radgehelangsam	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radanhalten	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radoberflaeche	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radlangestehen	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radauto	52 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13427_1_mnpmicaquestionnaire_radselbstbewusst	52 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13427_1_mnpmicaquestionnaire_radschuhe	52 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13427_1_mnpmicaquestionnaire_radschmerzhaftabend	52 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13427_1_mnpmicaquestionnaire_radstechend	52 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13427_1_mnpmicaquestionnaire_radarbeitalltagakt	52 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13427_1_mnpmicaquestionnaire_radsozial	52 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13427_1_mnpmicaquestionnaire_radschmerznachts	52 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13427_1_mnpmicaquestionnaire_radschmerzenfuss1	52 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13427_1_mnpmicaquestionnaire_radzufrieden	52 weeks	x	0	0 bis 10	0	satisfaction
+v13427_1_mnpmicaquestionnaire_radweiterempfehlung	52 weeks	x	0	0 bis 10	0	recommondation
+v13424_1_mnpmicaquestionnaire_mnpdocid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnplastedit	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpptnid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnppusid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnplang	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_sigstatus	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_sigreason	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvsno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvisid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvisno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnpfsct	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_mnphide	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaquestionnaire_chkkeineproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkleichtproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkmaessproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkschwerproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chknichtproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkkeineprobwaschen	104 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkleichtprobwaschen	104 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkmaessprobwaschen	104 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkschwerprobwaschen	104 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chknichtprobwaschen	104 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkkeineprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkleichtproblakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkmaessproblakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkschwerprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chknichtprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkkeineprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkleichtprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkmaessprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkschwerprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chknichtprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkkeineprobangst	104 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkleichtprobangst	104 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkmaessprobangst	104 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkschwerprobangst	104 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chknichtprobangst	104 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13424_1_mnpmicaquestionnaire_chkkeineprobschuhe	104 weeks	x	xx	Schuhwerk	1	shoe wear
+v13424_1_mnpmicaquestionnaire_chkleichtprobschuhe	104 weeks	x	xx	Schuhwerk	2	shoe wear
+v13424_1_mnpmicaquestionnaire_chkmaessprobschuhe	104 weeks	x	xx	Schuhwerk	3	shoe wear
+v13424_1_mnpmicaquestionnaire_rboschmerzzeit	104 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13424_1_mnpmicaquestionnaire_chkdafalgan	104 weeks	x	0	dafalgan	checkbox	pain killers
+v13424_1_mnpmicaquestionnaire_cbodosisdafalgan	104 weeks	x	0	daily intake	0	pain killers
+v13424_1_mnpmicaquestionnaire_chknovalgin	104 weeks	x	0	novalgin	checkbox	pain killers
+v13424_1_mnpmicaquestionnaire_cbodosisnovalgin	104 weeks	x	0	daily intake	0	pain killers
+v13424_1_mnpmicaquestionnaire_chktramal	104 weeks	x	0	tramal	checkbox	pain killers
+v13424_1_mnpmicaquestionnaire_cbodosistramal	104 weeks	x	0	daily intake	0	pain killers
+v13424_1_mnpmicaquestionnaire_chkandere	104 weeks	x	0	others	checkbox	pain killers
+v13424_1_mnpmicaquestionnaire_txtandere	104 weeks	x	0	0	0	pain killers
+v13424_1_mnpmicaquestionnaire_cbodosisandere	104 weeks	x	0	0	0	pain killers
+v13424_1_mnpmicaquestionnaire_radschmerzmvorop	104 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13424_1_mnpmicaquestionnaire_txtwelcheschmerzm	104 weeks	x	0	what kind of preop	0	pain killers
+v13424_1_mnpmicaquestionnaire_intgengesundheit	104 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13424_1_mnpmicaquestionnaire_radschmerzschlimm	104 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzmorgen	104 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzbarfussla	104 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzbarfussst	104 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzlaufsch	104 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzstehensch	104 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzlaufenort	104 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzstehenort	104 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzabend	104 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13424_1_mnpmicaquestionnaire_radlaufenwohnung	104 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13424_1_mnpmicaquestionnaire_radgehenausserhaus	104 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13424_1_mnpmicaquestionnaire_radlaufenmaxstrecke	104 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13424_1_mnpmicaquestionnaire_radtreppeoben	104 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13424_1_mnpmicaquestionnaire_radtreppeunten	104 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13424_1_mnpmicaquestionnaire_radstehenzehenspitz	104 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13424_1_mnpmicaquestionnaire_radaufstehenstuhl	104 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13424_1_mnpmicaquestionnaire_radbordsteinkante	104 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13424_1_mnpmicaquestionnaire_radschnellgehen	104 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13424_1_mnpmicaquestionnaire_radhilfmittelzuhause	104 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13424_1_mnpmicaquestionnaire_radhilfsmittelausha	104 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13424_1_mnpmicaquestionnaire_radfussprobzuhause	104 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13424_1_mnpmicaquestionnaire_radfussprobbett	104 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13424_1_mnpmicaquestionnaire_radfussprobaktiveins	104 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13424_1_mnpmicaquestionnaire_radschmerzenfuss	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_1_mnpmicaquestionnaire_radkeinelangenstreck	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radaenderungartweise	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radgehelangsam	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radanhalten	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radoberflaeche	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radlangestehen	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radauto	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_1_mnpmicaquestionnaire_radselbstbewusst	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_1_mnpmicaquestionnaire_radschuhe	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_1_mnpmicaquestionnaire_radschmerzhaftabend	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_1_mnpmicaquestionnaire_radstechend	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_1_mnpmicaquestionnaire_radarbeitalltagakt	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_1_mnpmicaquestionnaire_radsozial	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_1_mnpmicaquestionnaire_radschmerznachts	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_1_mnpmicaquestionnaire_radschmerzenfuss1	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_1_mnpmicaquestionnaire_radzufrieden	104 weeks	x	0	0 bis 10	0	satisfaction
+v13424_1_mnpmicaquestionnaire_radweiterempfehlung	104 weeks	x	0	0 bis 10	0	recommondation
+v13424_2_mnpmicaquestionnaire_mnpdocid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnplastedit	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpptnid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnppusid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnplang	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_sigstatus	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_sigreason	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvsno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvisid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvisno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnpfsct	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_mnphide	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaquestionnaire_chkkeineproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	1	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkleichtproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	2	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkmaessproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	3	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkschwerproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	4	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chknichtproblaufen	104 weeks	x	xx	Beweglichkeit_Mobilit√§t	5	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkkeineprobwaschen	104 weeks	x	xx	Selbstversorgung	1	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkleichtprobwaschen	104 weeks	x	xx	Selbstversorgung	2	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkmaessprobwaschen	104 weeks	x	xx	Selbstversorgung	3	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkschwerprobwaschen	104 weeks	x	xx	Selbstversorgung	4	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chknichtprobwaschen	104 weeks	x	xx	Selbstversorgung	5	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkkeineprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	1	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkleichtproblakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	2	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkmaessproblakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	3	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkschwerprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	4	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chknichtprobakt	104 weeks	x	xx	Allt√§glicheAktivit√§ten	5	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkkeineprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	1	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkleichtprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	2	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkmaessprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	3	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkschwerprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	4	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chknichtprobschmerz	104 weeks	x	xx	KoerperlicheBeschwerden	5	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkkeineprobangst	104 weeks	x	xx	Niedergeschlagenheit	1	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkleichtprobangst	104 weeks	x	xx	Niedergeschlagenheit	2	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkmaessprobangst	104 weeks	x	xx	Niedergeschlagenheit	3	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkschwerprobangst	104 weeks	x	xx	Niedergeschlagenheit	4	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chknichtprobangst	104 weeks	x	xx	Niedergeschlagenheit	5	EQ5D5L
+v13424_2_mnpmicaquestionnaire_chkkeineprobschuhe	104 weeks	x	xx	Schuhwerk	1	shoe wear
+v13424_2_mnpmicaquestionnaire_chkleichtprobschuhe	104 weeks	x	xx	Schuhwerk	2	shoe wear
+v13424_2_mnpmicaquestionnaire_chkmaessprobschuhe	104 weeks	x	xx	Schuhwerk	3	shoe wear
+v13424_2_mnpmicaquestionnaire_rboschmerzzeit	104 weeks	x	0	Schmermitteleinnahme	0 bis 5	pain killers
+v13424_2_mnpmicaquestionnaire_chkdafalgan	104 weeks	x	0	dafalgan	checkbox	pain killers
+v13424_2_mnpmicaquestionnaire_cbodosisdafalgan	104 weeks	x	0	daily intake	0	pain killers
+v13424_2_mnpmicaquestionnaire_chknovalgin	104 weeks	x	0	novalgin	checkbox	pain killers
+v13424_2_mnpmicaquestionnaire_cbodosisnovalgin	104 weeks	x	0	daily intake	0	pain killers
+v13424_2_mnpmicaquestionnaire_chktramal	104 weeks	x	0	tramal	checkbox	pain killers
+v13424_2_mnpmicaquestionnaire_cbodosistramal	104 weeks	x	0	daily intake	0	pain killers
+v13424_2_mnpmicaquestionnaire_chkandere	104 weeks	x	0	others	checkbox	pain killers
+v13424_2_mnpmicaquestionnaire_txtandere	104 weeks	x	0	0	0	pain killers
+v13424_2_mnpmicaquestionnaire_cbodosisandere	104 weeks	x	0	0	0	pain killers
+v13424_2_mnpmicaquestionnaire_radschmerzmvorop	104 weeks	x	0	pain killers preop	Ja/Nein (0/1)	pain killers
+v13424_2_mnpmicaquestionnaire_txtwelcheschmerzm	104 weeks	x	0	what kind of preop	0	pain killers
+v13424_2_mnpmicaquestionnaire_intgengesundheit	104 weeks	x	0	0 bis 100	genereller Gesundheitszustand	EQVAS
+v13424_2_mnpmicaquestionnaire_radschmerzschlimm	104 weeks	x	0	0 bis 10	last 4 weeks worst pain	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzmorgen	104 weeks	x	0	0 bis 10	last 4 weeks morning	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzbarfussla	104 weeks	x	0	0 bis 10	last 4 weeks barefoot	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzbarfussst	104 weeks	x	0	0 bis 10	last 4 weeks barefoot standing	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzlaufsch	104 weeks	x	0	0 bis 10	last 4 weeks walking with boots	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzstehensch	104 weeks	x	0	0 bis 10	last 4 weeks standing with boots	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzlaufenort	104 weeks	x	0	0 bis 10	last 4 weeks walking with insoles	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzstehenort	104 weeks	x	0	0 bis 10	last 4 weeks standing with insoles	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzabend	104 weeks	x	0	0 bis 10	last 4 weeks evening	FFI
+v13424_2_mnpmicaquestionnaire_radlaufenwohnung	104 weeks	x	0	0 bis 10	complains during acitivities walking at home	FFI
+v13424_2_mnpmicaquestionnaire_radgehenausserhaus	104 weeks	x	0	0 bis 10	complains during acitivities walking outdoors	FFI
+v13424_2_mnpmicaquestionnaire_radlaufenmaxstrecke	104 weeks	x	0	0 bis 10	complains during acitivities on max walking distance	FFI
+v13424_2_mnpmicaquestionnaire_radtreppeoben	104 weeks	x	0	0 bis 10	complains during acitivities climb up stairs	FFI
+v13424_2_mnpmicaquestionnaire_radtreppeunten	104 weeks	x	0	0 bis 10	complains during acitivities climb down stairs	FFI
+v13424_2_mnpmicaquestionnaire_radstehenzehenspitz	104 weeks	x	0	0 bis 10	complains during acitivities standing on toes	FFI
+v13424_2_mnpmicaquestionnaire_radaufstehenstuhl	104 weeks	x	0	0 bis 10	complains during acitivities get up from chair	FFI
+v13424_2_mnpmicaquestionnaire_radbordsteinkante	104 weeks	x	0	0 bis 10	complains during acitivities walking over a curb	FFI
+v13424_2_mnpmicaquestionnaire_radschnellgehen	104 weeks	x	0	0 bis 10	complains during acitivities walking fastly	FFI
+v13424_2_mnpmicaquestionnaire_radhilfmittelzuhause	104 weeks	x	0	0 bis 10	aid device at home cause of foot complains	FFI
+v13424_2_mnpmicaquestionnaire_radhilfsmittelausha	104 weeks	x	0	0 bis 10	aid device outdoors cause of foot complains	FFI
+v13424_2_mnpmicaquestionnaire_radfussprobzuhause	104 weeks	x	0	0 bis 10	stay at home mostly cause of foot complains	FFI
+v13424_2_mnpmicaquestionnaire_radfussprobbett	104 weeks	x	0	0 bis 10	stay at bed mostly cause of foot complains	FFI
+v13424_2_mnpmicaquestionnaire_radfussprobaktiveins	104 weeks	x	0	0 bis 10	limited activities cause of foot complains	FFI
+v13424_2_mnpmicaquestionnaire_radschmerzenfuss	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_2_mnpmicaquestionnaire_radkeinelangenstreck	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radaenderungartweise	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radgehelangsam	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radanhalten	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radoberflaeche	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radlangestehen	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radauto	104 weeks	x	0	0 bis 4 	walking_n_standing	MOXFQ
+v13424_2_mnpmicaquestionnaire_radselbstbewusst	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_2_mnpmicaquestionnaire_radschuhe	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_2_mnpmicaquestionnaire_radschmerzhaftabend	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_2_mnpmicaquestionnaire_radstechend	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_2_mnpmicaquestionnaire_radarbeitalltagakt	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_2_mnpmicaquestionnaire_radsozial	104 weeks	x	0	0 bis 4 	social_interaction	MOXFQ
+v13424_2_mnpmicaquestionnaire_radschmerznachts	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_2_mnpmicaquestionnaire_radschmerzenfuss1	104 weeks	x	0	0 bis 4 	painMOXFQ	MOXFQ
+v13424_2_mnpmicaquestionnaire_radzufrieden	104 weeks	x	0	0 bis 10	0	satisfaction
+v13424_2_mnpmicaquestionnaire_radweiterempfehlung	104 weeks	x	0	0 bis 10	0	recommondation
+v13428_1_mnpmicaaofas_mnpdocid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnplastedit	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpptnid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnppusid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnplang	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_sigstatus	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_sigreason	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvsno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvslbl	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpcvpid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvisid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvisno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvispdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpvisfdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfcs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfcs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfcs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfcs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfsqa	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnpfsct	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_mnphide	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaaofas_radpain	pr√§operativ	x	0	pain	40 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radactivitylimit	pr√§operativ	x	0	activity limitations	10 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radfootwearreq	pr√§operativ	x	0	Footwear requirements	10 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radmtp	pr√§operativ	x	0	MTP joint motion	10 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radip	pr√§operativ	x	0	IP joint motion	5 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radmtpip	pr√§operativ	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radcallus	pr√§operativ	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13428_1_mnpmicaaofas_radalignment	pr√§operativ	x	0	Alignment¬†	15 bis 0	AOFAS
+v13428_1_mnpmicaaofas_inttotalscore	pr√§operativ	x	0	sum	100 bis 0	AOFAS
+v13425_1_mnpmicaaofas_mnpdocid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnplastedit	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpptnid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnppusid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnplang	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_sigstatus	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_sigreason	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvsno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvslbl	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpcvpid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvisid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvisno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvispdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpvisfdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfcs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfcs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfcs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfcs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfsqa	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnpfsct	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_mnphide	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaaofas_radpain	6 weeks	x	0	pain	40 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radactivitylimit	6 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radfootwearreq	6 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radmtp	6 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radip	6 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radmtpip	6 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radcallus	6 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13425_1_mnpmicaaofas_radalignment	6 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13425_1_mnpmicaaofas_inttotalscore	6 weeks	x	0	sum	100 bis 0	AOFAS
+v13430_1_mnpmicaaofas_mnpdocid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnplastedit	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpptnid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnppusid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnplang	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_sigstatus	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_sigreason	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvsno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvslbl	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpcvpid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvisid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvisno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvispdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpvisfdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfcs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfcs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfcs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfcs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfsqa	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnpfsct	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_mnphide	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaaofas_radpain	12 weeks	x	0	pain	40 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radactivitylimit	12 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radfootwearreq	12 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radmtp	12 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radip	12 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radmtpip	12 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radcallus	12 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13430_1_mnpmicaaofas_radalignment	12 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13430_1_mnpmicaaofas_inttotalscore	12 weeks	x	0	sum	100 bis 0	AOFAS
+v13429_1_mnpmicaaofas_mnpdocid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnplastedit	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpptnid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnppusid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnplang	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_sigstatus	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_sigreason	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvsno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvslbl	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpcvpid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvisid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvisno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvispdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpvisfdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfcs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfcs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfcs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfcs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfsqa	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnpfsct	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_mnphide	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaaofas_radpain	26 weeks	x	0	pain	40 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radactivitylimit	26 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radfootwearreq	26 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radmtp	26 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radip	26 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radmtpip	26 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radcallus	26 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13429_1_mnpmicaaofas_radalignment	26 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13429_1_mnpmicaaofas_inttotalscore	26 weeks	x	0	sum	100 bis 0	AOFAS
+v13427_1_mnpmicaaofas_mnpdocid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnplastedit	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpptnid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnppusid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnplang	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_sigstatus	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_sigreason	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvsno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvslbl	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpcvpid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvisid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvisno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvispdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpvisfdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfcs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfcs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfcs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfcs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfsqa	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnpfsct	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_mnphide	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaaofas_radpain	52 weeks	x	0	pain	40 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radactivitylimit	52 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radfootwearreq	52 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radmtp	52 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radip	52 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radmtpip	52 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radcallus	52 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13427_1_mnpmicaaofas_radalignment	52 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13427_1_mnpmicaaofas_inttotalscore	52 weeks	x	0	sum	100 bis 0	AOFAS
+v13424_1_mnpmicaaofas_mnpdocid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnplastedit	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpptnid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnppusid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnplang	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_sigstatus	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_sigreason	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvsno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvisid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvisno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnpfsct	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_mnphide	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaaofas_radpain	104 weeks	x	0	pain	40 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radactivitylimit	104 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radfootwearreq	104 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radmtp	104 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radip	104 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radmtpip	104 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radcallus	104 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13424_1_mnpmicaaofas_radalignment	104 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13424_1_mnpmicaaofas_inttotalscore	104 weeks	x	0	sum	100 bis 0	AOFAS
+v13424_2_mnpmicaaofas_mnpdocid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnplastedit	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpptnid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnppusid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnplang	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_sigstatus	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_sigreason	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvsno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvisid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvisno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnpfsct	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_mnphide	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaaofas_radpain	104 weeks	x	0	pain	40 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radactivitylimit	104 weeks	x	0	activity limitations	10 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radfootwearreq	104 weeks	x	0	Footwear requirements	10 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radmtp	104 weeks	x	0	MTP joint motion	10 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radip	104 weeks	x	0	IP joint motion	5 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radmtpip	104 weeks	x	0	MTP-IP stability	5 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radcallus	104 weeks	x	0	Callus related to hallux MTP-IP	5 bis 0	AOFAS
+v13424_2_mnpmicaaofas_radalignment	104 weeks	x	0	Alignment¬†	15 bis 0	AOFAS
+v13424_2_mnpmicaaofas_inttotalscore	104 weeks	x	0	sum	100 bis 0	AOFAS
+v13428_1_mnpmicaradiofind_mnpdocid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnplastedit	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpptnid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnppusid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnplang	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_sigstatus	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_sigreason	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvsno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvslbl	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpcvpid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvisid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvisno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvispdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpvisfdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfcs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfcs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfcs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfcs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfsqa	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnpfsct	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_mnphide	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_txtinitialen_108299_1	pr√§operativ	x	0	initials	at or fk	radiological findings
+v13428_1_mnpmicaradiofind_inthvpreoperative_108299_1	pr√§operativ	x	0	HV preoperative	degrees	radiological findings
+v13428_1_mnpmicaradiofind_inthvpostoperative_108299_1	pr√§operativ	x	0	HV postoperative	degrees	radiological findings
+v13428_1_mnpmicaradiofind_intimapreoperative_108299_1	pr√§operativ	x	0	IMA preoperative	degrees	radiological findings
+v13428_1_mnpmicaradiofind_intimapostoperative_108299_1	pr√§operativ	x	0	IMA postoperative	degrees	radiological findings
+v13428_1_mnpmicaradiofind_radsagittalalign_108299_1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_radhardwarepos_108299_1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inttimeosseous_108299_1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intlengthofmt1_108299_1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13428_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13428_1_mnpmicaradiofind_txtinitialen_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inthvpreoperative_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inthvpostoperative_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intimapreoperative_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intimapostoperative_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_radsagittalalign_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_radhardwarepos_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inttimeosseous_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intlengthofmt1_108299_2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13428_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13428_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13428_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13428_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13428_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13428_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13428_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13428_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13428_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13428_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13428_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13428_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13428_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13428_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13428_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13428_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13428_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13428_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13428_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13428_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13428_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13428_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13428_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13428_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13428_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13428_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13425_1_mnpmicaradiofind_mnpdocid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnplastedit	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpptnid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnppusid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnplang	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_sigstatus	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_sigreason	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvsno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvslbl	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpcvpid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvisid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvisno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvispdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpvisfdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfcs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfcs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfcs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfcs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfsqa	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnpfsct	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_mnphide	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_txtinitialen_108299_1	6 weeks	x	0	initials	at or fk	radiological findings
+v13425_1_mnpmicaradiofind_inthvpreoperative_108299_1	6 weeks	x	0	HV preoperative	degrees	radiological findings
+v13425_1_mnpmicaradiofind_inthvpostoperative_108299_1	6 weeks	x	0	HV postoperative	degrees	radiological findings
+v13425_1_mnpmicaradiofind_intimapreoperative_108299_1	6 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13425_1_mnpmicaradiofind_intimapostoperative_108299_1	6 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13425_1_mnpmicaradiofind_radsagittalalign_108299_1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_radhardwarepos_108299_1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inttimeosseous_108299_1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intlengthofmt1_108299_1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13425_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13425_1_mnpmicaradiofind_txtinitialen_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inthvpreoperative_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inthvpostoperative_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intimapreoperative_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intimapostoperative_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_radsagittalalign_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_radhardwarepos_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inttimeosseous_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intlengthofmt1_108299_2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13425_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13425_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13425_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13425_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13425_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13425_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13425_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13425_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13425_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13425_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13425_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13425_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13425_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13425_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13425_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13425_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13425_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13425_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13425_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13425_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13425_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13425_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13425_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13425_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13425_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13425_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13430_1_mnpmicaradiofind_mnpdocid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnplastedit	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpptnid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnppusid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnplang	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_sigstatus	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_sigreason	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvsno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvslbl	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpcvpid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvisid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvisno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvispdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpvisfdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfcs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfcs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfcs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfcs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfsqa	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnpfsct	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_mnphide	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_txtinitialen_108299_1	12 weeks	x	0	initials	at or fk	radiological findings
+v13430_1_mnpmicaradiofind_inthvpreoperative_108299_1	12 weeks	x	0	HV preoperative	degrees	radiological findings
+v13430_1_mnpmicaradiofind_inthvpostoperative_108299_1	12 weeks	x	0	HV postoperative	degrees	radiological findings
+v13430_1_mnpmicaradiofind_intimapreoperative_108299_1	12 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13430_1_mnpmicaradiofind_intimapostoperative_108299_1	12 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13430_1_mnpmicaradiofind_radsagittalalign_108299_1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_radhardwarepos_108299_1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inttimeosseous_108299_1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intlengthofmt1_108299_1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13430_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13430_1_mnpmicaradiofind_txtinitialen_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inthvpreoperative_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inthvpostoperative_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intimapreoperative_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intimapostoperative_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_radsagittalalign_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_radhardwarepos_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inttimeosseous_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intlengthofmt1_108299_2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13430_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13430_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13430_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13430_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13430_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13430_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13430_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13430_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13430_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13430_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13430_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13430_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13430_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13430_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13430_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13430_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13430_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13430_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13430_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13430_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13430_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13430_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13430_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13430_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13430_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13430_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13429_1_mnpmicaradiofind_mnpdocid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnplastedit	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpptnid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnppusid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnplang	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_sigstatus	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_sigreason	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvsno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvslbl	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpcvpid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvisid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvisno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvispdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpvisfdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfcs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfcs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfcs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfcs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfsqa	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnpfsct	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_mnphide	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_txtinitialen_108299_1	26 weeks	x	0	initials	at or fk	radiological findings
+v13429_1_mnpmicaradiofind_inthvpreoperative_108299_1	26 weeks	x	0	HV preoperative	degrees	radiological findings
+v13429_1_mnpmicaradiofind_inthvpostoperative_108299_1	26 weeks	x	0	HV postoperative	degrees	radiological findings
+v13429_1_mnpmicaradiofind_intimapreoperative_108299_1	26 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13429_1_mnpmicaradiofind_intimapostoperative_108299_1	26 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13429_1_mnpmicaradiofind_radsagittalalign_108299_1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_radhardwarepos_108299_1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inttimeosseous_108299_1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intlengthofmt1_108299_1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13429_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13429_1_mnpmicaradiofind_txtinitialen_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inthvpreoperative_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inthvpostoperative_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intimapreoperative_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intimapostoperative_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_radsagittalalign_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_radhardwarepos_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inttimeosseous_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intlengthofmt1_108299_2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13429_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13429_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13429_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13429_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13429_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13429_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13429_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13429_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13429_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13429_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13429_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13429_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13429_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13429_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13429_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13429_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13429_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13429_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13429_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13429_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13429_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13429_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13429_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13429_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13429_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13429_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13427_1_mnpmicaradiofind_mnpdocid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnplastedit	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpptnid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnppusid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnplang	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_sigstatus	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_sigreason	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvsno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvslbl	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpcvpid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvisid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvisno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvispdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpvisfdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfcs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfcs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfcs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfcs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfsqa	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnpfsct	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_mnphide	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_txtinitialen_108299_1	52 weeks	x	0	initials	at or fk	radiological findings
+v13427_1_mnpmicaradiofind_inthvpreoperative_108299_1	52 weeks	x	0	HV preoperative	degrees	radiological findings
+v13427_1_mnpmicaradiofind_inthvpostoperative_108299_1	52 weeks	x	0	HV postoperative	degrees	radiological findings
+v13427_1_mnpmicaradiofind_intimapreoperative_108299_1	52 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13427_1_mnpmicaradiofind_intimapostoperative_108299_1	52 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13427_1_mnpmicaradiofind_radsagittalalign_108299_1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_radhardwarepos_108299_1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inttimeosseous_108299_1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intlengthofmt1_108299_1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13427_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13427_1_mnpmicaradiofind_txtinitialen_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inthvpreoperative_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inthvpostoperative_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intimapreoperative_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intimapostoperative_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_radsagittalalign_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_radhardwarepos_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inttimeosseous_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intlengthofmt1_108299_2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13427_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13427_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13427_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13427_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13427_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13427_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13427_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13427_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13427_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13427_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13427_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13427_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13427_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13427_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13427_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13427_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13427_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13427_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13427_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13427_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13427_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13427_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13427_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13427_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13427_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13427_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13424_1_mnpmicaradiofind_mnpdocid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnplastedit	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpptnid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnppusid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnplang	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_sigstatus	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_sigreason	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvsno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvisid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvisno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnpfsct	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_mnphide	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_txtinitialen_108299_1	104 weeks	x	0	initials	at or fk	radiological findings
+v13424_1_mnpmicaradiofind_inthvpreoperative_108299_1	104 weeks	x	0	HV preoperative	degrees	radiological findings
+v13424_1_mnpmicaradiofind_inthvpostoperative_108299_1	104 weeks	x	0	HV postoperative	degrees	radiological findings
+v13424_1_mnpmicaradiofind_intimapreoperative_108299_1	104 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13424_1_mnpmicaradiofind_intimapostoperative_108299_1	104 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13424_1_mnpmicaradiofind_radsagittalalign_108299_1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_radhardwarepos_108299_1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inttimeosseous_108299_1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intlengthofmt1_108299_1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13424_1_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13424_1_mnpmicaradiofind_txtinitialen_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inthvpreoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inthvpostoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intimapreoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intimapostoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_radsagittalalign_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_radhardwarepos_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inttimeosseous_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intlengthofmt1_108299_2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13424_1_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13424_1_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13424_1_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13424_1_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13424_1_mnpmicaradiofind_txtinitialen_108299_4						
+v13424_1_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13424_1_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13424_1_mnpmicaradiofind_intimapreoperative_108299_4						
+v13424_1_mnpmicaradiofind_intimapostoperative_108299_4						
+v13424_1_mnpmicaradiofind_radsagittalalign_108299_4						
+v13424_1_mnpmicaradiofind_radhardwarepos_108299_4						
+v13424_1_mnpmicaradiofind_inttimeosseous_108299_4						
+v13424_1_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13424_1_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13424_1_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13424_1_mnpmicaradiofind_txtinitialen_108299_5						
+v13424_1_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13424_1_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13424_1_mnpmicaradiofind_intimapreoperative_108299_5						
+v13424_1_mnpmicaradiofind_intimapostoperative_108299_5						
+v13424_1_mnpmicaradiofind_radsagittalalign_108299_5						
+v13424_1_mnpmicaradiofind_radhardwarepos_108299_5						
+v13424_1_mnpmicaradiofind_inttimeosseous_108299_5						
+v13424_1_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13424_1_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13424_1_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13424_2_mnpmicaradiofind_mnpdocid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnplastedit	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpptnid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnppusid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnplang	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_sigstatus	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_sigreason	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvsno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvisid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvisno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnpfsct	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_mnphide	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_txtinitialen_108299_1	104 weeks	x	0	initials	at or fk	radiological findings
+v13424_2_mnpmicaradiofind_inthvpreoperative_108299_1	104 weeks	x	0	HV preoperative	degrees	radiological findings
+v13424_2_mnpmicaradiofind_inthvpostoperative_108299_1	104 weeks	x	0	HV postoperative	degrees	radiological findings
+v13424_2_mnpmicaradiofind_intimapreoperative_108299_1	104 weeks	x	0	IMA preoperative	degrees	radiological findings
+v13424_2_mnpmicaradiofind_intimapostoperative_108299_1	104 weeks	x	0	IMA postoperative	degrees	radiological findings
+v13424_2_mnpmicaradiofind_radsagittalalign_108299_1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_radhardwarepos_108299_1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inttimeosseous_108299_1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intlengthofmt1_108299_1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intdmaapreoperative_108299_1		x				
+v13424_2_mnpmicaradiofind_intdmaapostoperative_108299_1		x				
+v13424_2_mnpmicaradiofind_txtinitialen_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inthvpreoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inthvpostoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intimapreoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intimapostoperative_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_radsagittalalign_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_radhardwarepos_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inttimeosseous_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intlengthofmt1_108299_2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intdmaapreoperative_108299_2		x				
+v13424_2_mnpmicaradiofind_intdmaapostoperative_108299_2		x				
+v13424_2_mnpmicaradiofind_txtinitialen_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inthvpreoperative_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inthvpostoperative_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intimapreoperative_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intimapostoperative_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_radsagittalalign_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_radhardwarepos_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_inttimeosseous_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intlengthofmt1_108299_3	0	0	0	0	0	0
+v13424_2_mnpmicaradiofind_intdmaapreoperative_108299_3		x				
+v13424_2_mnpmicaradiofind_intdmaapostoperative_108299_3		x				
+v13424_2_mnpmicaradiofind_txtinitialen_108299_4						
+v13424_2_mnpmicaradiofind_inthvpreoperative_108299_4						
+v13424_2_mnpmicaradiofind_inthvpostoperative_108299_4						
+v13424_2_mnpmicaradiofind_intimapreoperative_108299_4						
+v13424_2_mnpmicaradiofind_intimapostoperative_108299_4						
+v13424_2_mnpmicaradiofind_radsagittalalign_108299_4						
+v13424_2_mnpmicaradiofind_radhardwarepos_108299_4						
+v13424_2_mnpmicaradiofind_inttimeosseous_108299_4						
+v13424_2_mnpmicaradiofind_intlengthofmt1_108299_4						
+v13424_2_mnpmicaradiofind_intdmaapreoperative_108299_4		x				
+v13424_2_mnpmicaradiofind_intdmaapostoperative_108299_4		x				
+v13424_2_mnpmicaradiofind_txtinitialen_108299_5						
+v13424_2_mnpmicaradiofind_inthvpreoperative_108299_5						
+v13424_2_mnpmicaradiofind_inthvpostoperative_108299_5						
+v13424_2_mnpmicaradiofind_intimapreoperative_108299_5						
+v13424_2_mnpmicaradiofind_intimapostoperative_108299_5						
+v13424_2_mnpmicaradiofind_radsagittalalign_108299_5						
+v13424_2_mnpmicaradiofind_radhardwarepos_108299_5						
+v13424_2_mnpmicaradiofind_inttimeosseous_108299_5						
+v13424_2_mnpmicaradiofind_intlengthofmt1_108299_5						
+v13424_2_mnpmicaradiofind_intdmaapreoperative_108299_5		x				
+v13424_2_mnpmicaradiofind_intdmaapostoperative_108299_5		x				
+v13428_1_mnpmicacomplications_mnpdocid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnplastedit	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpptnid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnppusid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnplang	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_sigstatus	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_sigreason	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvsno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvslbl	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpcvpid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvisid	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvisno	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvispdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpvisfdt	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfcs0	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfcs1	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfcs2	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfcs3	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfsqa	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnpfsct	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_mnphide	pr√§operativ	0	0	0	0	0
+v13428_1_mnpmicacomplications_chk1	pr√§operativ	x	0	Clavien dindo classification	yes or no	complications
+v13428_1_mnpmicacomplications_chk2	pr√§operativ	x	0	Clavien dindo classification	yes or no	complications
+v13428_1_mnpmicacomplications_chk3	pr√§operativ	x	0	Clavien dindo classification	yes or no	complications
+v13428_1_mnpmicacomplications_chklackimplantfail	pr√§operativ	x	0	implant failure	yes or no	complications
+v13428_1_mnpmicacomplications_radlackimplfailreas	pr√§operativ	x	0	what kind of	0 bis 2	complications
+v13428_1_mnpmicacomplications_chkcomplication	pr√§operativ	x	0	another comlication	yes or no	complications
+v13428_1_mnpmicacomplications_txtcomplication	pr√§operativ	x	0	what kind of	eg symptmatic hardware	complications
+v13425_1_mnpmicacomplications_mnpdocid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnplastedit	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpptnid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnppusid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnplang	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_sigstatus	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_sigreason	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvsno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvslbl	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpcvpid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvisid	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvisno	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvispdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpvisfdt	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfcs0	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfcs1	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfcs2	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfcs3	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfsqa	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnpfsct	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_mnphide	6 weeks	0	0	0	0	0
+v13425_1_mnpmicacomplications_chk1	6 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13425_1_mnpmicacomplications_chk2	6 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13425_1_mnpmicacomplications_chk3	6 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13425_1_mnpmicacomplications_chklackimplantfail	6 weeks	x	0	implant failure	yes or no	complications
+v13425_1_mnpmicacomplications_radlackimplfailreas	6 weeks	x	0	what kind of	0 bis 2	complications
+v13425_1_mnpmicacomplications_chkcomplication	6 weeks	x	0	another comlication	yes or no	complications
+v13425_1_mnpmicacomplications_txtcomplication	6 weeks	x	0	what kind of	eg symptmatic hardware	complications
+v13430_1_mnpmicacomplications_mnpdocid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnplastedit	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpptnid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnppusid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnplang	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_sigstatus	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_sigreason	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvsno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvslbl	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpcvpid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvisid	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvisno	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvispdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpvisfdt	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfcs0	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfcs1	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfcs2	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfcs3	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfsqa	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnpfsct	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_mnphide	12 weeks	0	0	0	0	0
+v13430_1_mnpmicacomplications_chk1	12 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13430_1_mnpmicacomplications_chk2	12 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13430_1_mnpmicacomplications_chk3	12 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13430_1_mnpmicacomplications_chklackimplantfail	12 weeks	x	0	implant failure	yes or no	complications
+v13430_1_mnpmicacomplications_radlackimplfailreas	12 weeks	x	0	what kind of	0 bis 2	complications
+v13430_1_mnpmicacomplications_chkcomplication	12 weeks	x	0	another comlication	yes or no	complications
+v13430_1_mnpmicacomplications_txtcomplication	12 weeks	x	0	what kind of	eg symptmatic hardware	complications
+v13429_1_mnpmicacomplications_mnpdocid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnplastedit	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpptnid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnppusid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnplang	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_sigstatus	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_sigreason	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvsno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvslbl	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpcvpid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvisid	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvisno	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvispdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpvisfdt	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfcs0	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfcs1	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfcs2	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfcs3	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfsqa	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnpfsct	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_mnphide	26 weeks	0	0	0	0	0
+v13429_1_mnpmicacomplications_chk1	26 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13429_1_mnpmicacomplications_chk2	26 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13429_1_mnpmicacomplications_chk3	26 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13429_1_mnpmicacomplications_chklackimplantfail	26 weeks	x	0	implant failure	yes or no	complications
+v13429_1_mnpmicacomplications_radlackimplfailreas	26 weeks	x	0	what kind of	0 bis 2	complications
+v13429_1_mnpmicacomplications_chkcomplication	26 weeks	x	0	another comlication	yes or no	complications
+v13429_1_mnpmicacomplications_txtcomplication	26 weeks	x	0	what kind of	eg symptmatic hardware	complications
+v13427_1_mnpmicacomplications_mnpdocid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnplastedit	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpptnid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnppusid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnplang	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_sigstatus	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_sigreason	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvsno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvslbl	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpcvpid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvisid	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvisno	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvispdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpvisfdt	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfcs0	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfcs1	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfcs2	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfcs3	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfsqa	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnpfsct	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_mnphide	52 weeks	0	0	0	0	0
+v13427_1_mnpmicacomplications_chk1	52 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13427_1_mnpmicacomplications_chk2	52 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13427_1_mnpmicacomplications_chk3	52 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13427_1_mnpmicacomplications_chklackimplantfail	52 weeks	x	0	implant failure	yes or no	complications
+v13427_1_mnpmicacomplications_radlackimplfailreas	52 weeks	x	0	what kind of	0 bis 2	complications
+v13427_1_mnpmicacomplications_chkcomplication	52 weeks	x	0	another comlication	yes or no	complications
+v13427_1_mnpmicacomplications_txtcomplication	52 weeks	x	0	what kind of	eg symptmatic hardware	complications
+v13424_1_mnpmicacomplications_mnpdocid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnplastedit	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpptnid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnppusid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnplang	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_sigstatus	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_sigreason	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvsno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvisid	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvisno	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnpfsct	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_mnphide	104 weeks	0	0	0	0	0
+v13424_1_mnpmicacomplications_chk1	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_1_mnpmicacomplications_chk2	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_1_mnpmicacomplications_chk3	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_1_mnpmicacomplications_chklackimplantfail	104 weeks	x	0	implant failure	yes or no	complications
+v13424_1_mnpmicacomplications_radlackimplfailreas	104 weeks	x	0	what kind of	0 bis 2	complications
+v13424_1_mnpmicacomplications_chkcomplication	104 weeks	x	0	another comlication	yes or no	complications
+v13424_1_mnpmicacomplications_txtcomplication	104 weeks	x	0	what kind of	eg symptmatic hardware	complications
+v13424_2_mnpmicacomplications_mnpdocid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnplastedit	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpptnid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnppusid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnplang	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_sigstatus	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_sigreason	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvsno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvslbl	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpcvpid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvisid	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvisno	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvispdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpvisfdt	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfcs0	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfcs1	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfcs2	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfcs3	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfsqa	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnpfsct	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_mnphide	104 weeks	0	0	0	0	0
+v13424_2_mnpmicacomplications_chk1	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_2_mnpmicacomplications_chk2	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_2_mnpmicacomplications_chk3	104 weeks	x	0	Clavien dindo classification	yes or no	complications
+v13424_2_mnpmicacomplications_chklackimplantfail	104 weeks	x	0	implant failure	yes or no	complications
+v13424_2_mnpmicacomplications_radlackimplfailreas	104 weeks	x	0	what kind of	0 bis 2	complications
+v13424_2_mnpmicacomplications_chkcomplication	104 weeks	x	0	another comlication	yes or no	complications
+v13424_2_mnpmicacomplications_txtcomplication	104 weeks	x	0	what kind of	eg symptmatic hardware	complications
+c_mnpmicastudyend_mnpdocid	0	0	0	0	0	0
+c_mnpmicastudyend_mnplastedit	0	0	0	0	0	0
+c_mnpmicastudyend_mnpptnid	0	0	0	0	0	0
+c_mnpmicastudyend_mnppusid	0	0	0	0	0	0
+c_mnpmicastudyend_mnplang	0	0	0	0	0	0
+c_mnpmicastudyend_sigstatus	0	0	0	0	0	0
+c_mnpmicastudyend_sigreason	0	0	0	0	0	0
+c_mnpmicastudyend_mnpvsno	0	0	0	0	0	0
+c_mnpmicastudyend_mnpvslbl	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfs0	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfs1	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfs2	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfs3	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfcs0	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfcs1	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfcs2	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfcs3	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfsqa	0	0	0	0	0	0
+c_mnpmicastudyend_mnpfsct	0	0	0	0	0	0
+c_mnpmicastudyend_mnphide	0	0	0	0	0	0
+c_mnpmicastudyend_datstudyend	0	0	0	0	0	0
+c_mnpmicastudyend_cbogrundstudyend	0	0	0	0	0	0
+c_mnpmicastudyend_txtandere	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpdocid	0	0	0	0	0	0
+c_mnpmicastudycomp_mnplastedit	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpptnid	0	0	0	0	0	0
+c_mnpmicastudycomp_mnppusid	0	0	0	0	0	0
+c_mnpmicastudycomp_mnplang	0	0	0	0	0	0
+c_mnpmicastudycomp_sigstatus	0	0	0	0	0	0
+c_mnpmicastudycomp_sigreason	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpvsno	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpvslbl	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfs0	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfs1	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfs2	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfs3	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfcs0	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfcs1	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfcs2	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfcs3	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfsqa	0	0	0	0	0	0
+c_mnpmicastudycomp_mnpfsct	0	0	0	0	0	0
+c_mnpmicastudycomp_mnphide	0	0	0	0	0	0
+c_mnpmicastudycomp_dtmstdycmpl	0	0	0	0	0	0
+c_mnpmicastudycomp_txtinvestigator	0	0	0	0	0	0
